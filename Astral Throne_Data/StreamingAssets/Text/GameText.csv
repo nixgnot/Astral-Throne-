@@ -122,7 +122,7 @@ Act1MiniBoss1Blurb,CHARACTER,Story for a boss in act 1,钱，钱，钱。我们�
 Act1MiniBoss2,CHARACTER,Name for a boss in act 1,斯科皮斯,Scorpius
 Act1MiniBoss2Blurb,CHARACTER,Story for a boss in act 1,斯科皮斯向来不喜欢人，所以才会被派到荒郊野岭看守一座山丘。这山丘是干什么用的，他们心里纳闷——这地方必定有极重要的战略价值！既然星辰要他们守住这座山丘，斯科皮斯就会用性命去守。,"Scorpius never liked people, which is why they were sent out to the boonies to guard a hill. What is this hill for, they wonder, having the place must be a very strategic advantage! If the Star wants them to guard this hill, Scorpius will guard it with their life."
 Act1MiniBoss3,CHARACTER,Name for a boss in act 1,莉布拉,Libra
-Act1MiniBoss3Blurb,CHARACTER,Story for a boss in act 1,认识莉布拉的人都习惯与他们保持距离。莉布拉清楚这一点，却毫不在意，因为他们始终知道真相：那些对他们说的话并非来自「幻听」，而是星辰本身。他们能在这座桥的另一端听见那些声音——啊，他们快到了，声音正越来越响！,"Those who know Libra tended to keep them at arm's length. Libra was aware of this, but was undisturbed, since they've always known the truth. The words that are spoken to them are not from 'voices', but from the Stars themselves. They can hear them from across this bridge, oh they must be arriving soon, the voices are getting louder!"
+Act1MiniBoss3Blurb,CHARACTER,Story for a boss in act 1,认识莉布拉的人都习惯与他们保持距离。莉布拉清楚这一点，却毫不在意，因为他们始终知道真相:那些对他们说的话并非来自「幻听」，而是星辰本身。他们能在这座桥的另一端听见那些声音——啊，他们快到了，声音正越来越响！,"Those who know Libra tended to keep them at arm's length. Libra was aware of this, but was undisturbed, since they've always known the truth. The words that are spoken to them are not from 'voices', but from the Stars themselves. They can hear them from across this bridge, oh they must be arriving soon, the voices are getting louder!"
 Act1MiniBoss4,CHARACTER,Name for a boss in act 1,阿奎里斯,Aquarius
 Act1MiniBoss4Blurb,CHARACTER,Story for a boss in act 1,这里没什么可疑的，一点都没有。阿奎里斯只是个孤独的可怜人，在寻求帮助。他从来没有把旅人引入陷阱当作祭品，一次都没有！别多想……那你还在等什么？去帮帮他吧！,"Nothing suspicious here, nothing at all. Aquarius is simply a lonely victim, looking for help. He's never lured travellers into a trap for ritual sacrifice, not once! Don't worry about it... So what are you waiting for? Go help him!"
 Act2Boss1,CHARACTER,Name for a boss in act 2,阿里斯,Aries
@@ -156,14 +156,14 @@ AdeptMilitia_5,CHARACTER,Character name,保罗,Paul
 AdeptMilitia_5Blurb,CHARACTER,Character story,保罗从小就自称和平主义者——其实那只是他为自己不敢挺身而出找的借口。如今被逼到绝境，他意识到想活着出去，就得长出点骨气来。,"Since he was young, Paul was a pacifist. Well, that's what he told himself as the reason as to why he could never stand up for himself. Now that his back is against the wall, he realizes he must grow a spine if he wants to make it out alive."
 AdeptMilitia_5Recruit,CHARACTER,Character story,我……我尽力而为。,I... I'll do what I can.
 AdeptMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-AdeptMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+AdeptMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 AdeptMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 Aniara,CHARACTER,Name for a hero character,阿妮亚拉,Aniara
 AniaraAzhaSecondaryStory,CHARACTER,Character motivations,一个卑微的骑士想回到已被摧毁的故乡「夺回一切」？阿妮亚拉登上那位老兵的船时心里这么想着——祝你好运吧。不过话说回来，她总归用得上多一双手，去接那些档次太低、不值得她亲自出手的活。,"A paltry knight looking to return to her destroyed homeland to 'take it back'? Good luck, Aniara thinks, as she boards the old soldier's ship. Regardless, she could always use an extra hand to take the fights that fall too far below her."
 AniaraBlurb,CHARACTER,Character description,阿妮亚拉不理会正统，在可接受范围的边缘活得如鱼得水。为追求力量，她绕过、颠覆、违反、反叛过她遇到的每一条规则。为此她来到阿斯特雷亚，要把星尘据为己有。,"Unconcerned with orthodoxy, Aniara thrives on the fringes of the acceptable. In her quest for power, she has skirted, subverted, contravened, and rebelled against every rule she has come across. In turn, she has come to Astrea to take control of the Stardust for herself."
 AniaraCetusSecondaryStory,CHARACTER,Character motivations,哦嚯，阿妮亚拉在港口遇上了同路人？不是同一片土地的人，却怀着同样的理念。若果真如此，那会是位好盟友。若不是……处理掉他们大概也不难。,"Oho, could Aniara have found a compatriot at port? A person not of the same land, but of the same ideals. If so, they could be a good ally. If not, then it probably shouldn't be too hard to dispose of them."
 AniaraDracoSecondaryStory,CHARACTER,Character motivations,她并没被这个迷人男子的花招骗到，但此人身上有某种东西，让阿妮亚拉愿意假装上当。也许是他肩上那只猫吧。反正他看起来无害，暂时让他跟着也无妨。,"She doesn't fall for this charming man's guile, but there's something about him that motivates Aniara to feign credulity. Maybe it's the cat on his shoulder. He seems harmless regardless, might as well let him tag along for now."
-AniaraLeaderStory,CHARACTER,Character motivations,无所谓。阿妮亚拉觉得，所有道路最终都会通向她的真正目的地：星尘的源头本身。,"No matter, Aniara feels all roads will eventually lead to her true destination: the source of the Stardust itself."
+AniaraLeaderStory,CHARACTER,Character motivations,无所谓。阿妮亚拉觉得，所有道路最终都会通向她的真正目的地:星尘的源头本身。,"No matter, Aniara feels all roads will eventually lead to her true destination: the source of the Stardust itself."
 AniaraLyraSecondaryStory,CHARACTER,Character motivations,公主？哪门子的公主？阿妮亚拉俯视着这位对自己帝国的境况一无所知的战法师。不过，让她自己去发现会更有用。眼下，她能帮阿妮亚拉引路，找到星尘的源头。,"A princess? Of what? Aniara looks down at the Battlemage who is completely unaware at the state of her Empire. It's more useful to let her find out on her own, though. For now, she can help guide Aniara to the source of the Stardust."
 AniaraMaiaSecondaryStory,CHARACTER,Character motivations,有个奇怪的女孩跟阿妮亚拉跟得有点太近了。换作平时，阿妮亚拉懒得理会这种看起来弱不禁风的人，但她能感觉到，这女孩温顺的外表下潜藏着某种奇异的力量。,"There's a strange girl following Aniara a little too closely. Normally Aniara would not bother with someone so weak-looking, but she can sense a strange power lurking underneath the girl's meek exterior."
 AniaraSolSecondaryStory,CHARACTER,Character motivations,阿妮亚拉清楚信奉一位神能带来多大的力量，于是立刻登上了一艘许珀里翁的战舰，假意宣誓效忠他们的志业。这些确实会是强有力的盟友。,"Recognizing the power that patronage to a God can grant, Aniara promptly boards a Hyperion warship, pretending to pledge to their cause. These will be powerful allies indeed."
@@ -172,7 +172,7 @@ AniaraTeamName,CHARACTER,Aniara's team name,猩红灵液,Crimson Ichor
 AniaraVegaSecondaryStory,CHARACTER,Character motivations,港口有个看起来还算有用的小个子男人找上阿妮亚拉，自称算是名治疗师。只要他能在需要时替她处理伤口，她没理由不带上他。,"A useful little man approached Aniara at port, claiming to be a healer of sorts. So long as he tends to her wounds when needed, she sees no reason not to bring him along with her."
 Azha,CHARACTER,Name for a hero character,阿莎,Azha
 AzhaAniaraSecondaryStory,CHARACTER,Character motivations,这位戴着王冠的女人与阿莎同船前往她的故乡，总觉得有点不对劲。但无论她会带来什么麻烦，与阿莎的使命相比都微不足道。,"There's something a little off about this crowned woman sharing passage with Azha to her homeland, but whatever problems she might bring pale in comparison to her mission."
-AzhaBlurb,CHARACTER,Character description,阿莎是德里瓦斯托军中的老练骑士。她中断了退休生活，回到故乡接下最后一项任务：让故乡恢复成她离开时的模样。,"Azha is a veteran knight of the army of Drivasto. Interrupting her retired life, she's come back to her homeland on one last job: to bring it back to the way she left it."
+AzhaBlurb,CHARACTER,Character description,阿莎是德里瓦斯托军中的老练骑士。她中断了退休生活，回到故乡接下最后一项任务:让故乡恢复成她离开时的模样。,"Azha is a veteran knight of the army of Drivasto. Interrupting her retired life, she's come back to her homeland on one last job: to bring it back to the way she left it."
 AzhaCetusSecondaryStory,CHARACTER,Character motivations,听见了吗？是偷袭？不，只是个无害的偷渡客。阿莎纳闷他们是怎么上船的。他们似乎没造成什么危害，而且去阿斯特拉必定有正当理由，于是她决定不把人扔下海。,"Did you hear that? Is this a surprise attack? No, it's just some harmless stowaway. How did they get on board, Azha wonders. They don't seem to be causing any harm, and they must be going to Astra for a good reason, so she decides not to throw them overboard."
 AzhaDracoSecondaryStory,CHARACTER,Character motivations,这男人那副大笑脸后面肯定藏着什么，但阿莎并不真的想弄清楚。事实上也无所谓——只要他愿意和她一起杀教团信徒，就欢迎上船。,"This man's got something hidden behind his massive smile, no doubt, but Azha isn't really interested in finding out what. In fact, it doesn't matter, as long as he kills cultists with her, he's welcome aboard."
 AzhaLeaderStory,CHARACTER,Character motivations,尽管她做这些事已经有点太老了，但没有什么能挡在阿莎和她的使命之间。,"Despite the fact she's getting a little too old for this, there's nothing that is going to get in between Azha and her mission."
@@ -183,7 +183,7 @@ AzhaStoryLoss,CHARACTER,Character losing,阿莎终究没能享受到她期望的
 AzhaTeamName,CHARACTER,Azha''s team name,最后的任务,One Last Mission
 AzhaVegaSecondaryStory,CHARACTER,Character motivations,战场上的经历让阿莎格外敬重治疗师、药剂师、祭司，以及一切以治愈伤口或心灵为职的人。因此她毫不犹豫地让港口那位医生搭上了自己的船。,"Azha's experience in the field has given her great appreciation for the healers, chemists, priests, and any other person whose job it is to heal wounds or spirits. As such, without hesitation, she welcomes the doctor at the port passage on her ship."
 Cetus,CHARACTER,Name for a hero character,刻托斯,Cetus
-CetusAniaraSecondaryStory,CHARACTER,Character motivations,刻托斯想不注意都难：一个女人气场逼人，为了强行登上任何开往阿斯特雷亚的船而闹得天翻地覆。幸运的是，他们借她在某艘船上造成的混乱溜了上去——不过刻托斯确信，这绝不是他们最后一次见到她。,"Cetus could not help but notice a woman of immense presence causing chaos trying to forcefully board any ship head to Astrea. Fortunately, they were able to use the disruption she caused on a ship to sneak themself aboard, though Cetus was sure this was not the last they'd see of her."
+CetusAniaraSecondaryStory,CHARACTER,Character motivations,刻托斯想不注意都难:一个女人气场逼人，为了强行登上任何开往阿斯特雷亚的船而闹得天翻地覆。幸运的是，他们借她在某艘船上造成的混乱溜了上去——不过刻托斯确信，这绝不是他们最后一次见到她。,"Cetus could not help but notice a woman of immense presence causing chaos trying to forcefully board any ship head to Astrea. Fortunately, they were able to use the disruption she caused on a ship to sneak themself aboard, though Cetus was sure this was not the last they'd see of her."
 CetusAzhaSecondaryStory,CHARACTER,Character motivations,刻托斯扮成走投无路的阿斯特雷亚本地人，成功搭上了一位德里瓦斯托老骑士的船。说到底，只要善用某种民族情怀，他们知道轻易就能换来可靠的庇护。,"Cetus's act as a desperate Astrean native seemed to successfully allow them passage on a ship owned by an old Drivastan knight. If anything, they know they can easily get some good protection so long as they leverage a certain flavour of nationalism."
 CetusBlurb,CHARACTER,Character description,刻托斯以创业者的眼光看待坠星事件，嗅到这片土地满是「寻宝」的机会。刻托斯的偷窃手段不走寻常路，许多人根本察觉不到——比起亲手弄脏撬锁的手，他们更愿意让门把手自己转动。,"Cetus has taken an entrepreneurial stance on the Falling Star event, sensing a land rife with opportunity for 'treasure hunting'. Untraditional in nature, Cetus's thievery goes unnoticed by many as they would rather have a door's handle turn itself then get their hands dirty with a lockpick."
 CetusDracoSecondaryStory,CHARACTER,Character motivations,迎接他们的是此生见过最友善的一张脸。刻托斯惊讶地遇到一个男人，主动送上一张直航阿斯特雷亚的船票。他们很识趣地没有追问票从哪来、这人又有什么盘算，跟着走就是了。,"Greeted by the friendliest face they had ever seen, Cetus was surprised to meet a man offering them an extra ticket aboard a ship headed straight to Astrea. They knew better not to ask where it came from or what the man's ulterior motives might be and just followed along."
@@ -208,12 +208,12 @@ DracoCetusSecondaryStory,CHARACTER,Character motivations,哟，这不是个挺�
 DracoLeaderStory,CHARACTER,Character motivations,这片土地上的人，要么绝望地渴求希望，要么疯得没法好好思考。不管哪种，都是遍地肥羊的好地方。,"The people of this land are either desperate for hope or too crazed to think straight. Either way, it should be a land full of easy marks."
 DracoLyraSecondaryStory,CHARACTER,Character motivations,这才叫高价值的猎物。年轻的帝国公主，大概嫩得有点过头了。德拉科琢磨着能从她身上弄到多少财宝。,"Now that's a high-value mark. The young Imperial Princess, probably a little too wet behind the ears for her own good. Draco wonders what kind of riches he can get out of her."
 DracoMaiaSecondaryStory,CHARACTER,Character motivations,那个带着一看就很贵的人偶的女孩，是出身富贵还是新贵暴发户？德拉科拿不准。不管哪种，他都闻到了猎物的味道，于是摆出最迷人的姿态登场。,"Draco wonders if the girl with the expensive-looking marionettes comes from a wealthy family, or is new money. Regardless, he smells a mark either way, and makes the most charming entrance he possibly can."
-DracoSolSecondaryStory,CHARACTER,Character motivations,德拉科犹豫了：他有把握从一个许珀里翁信徒手里骗到根本不存在的金币吗？可没得选，别的船都不肯载他。说不定他会被自己的本事吓一跳。,"Draco hesitates, is he sure he can con a Hyperion out of his non-existent gold? Well, he's got no choice, no other ship will take him aboard. Maybe he'll be surprised at what he can do."
+DracoSolSecondaryStory,CHARACTER,Character motivations,德拉科犹豫了:他有把握从一个许珀里翁信徒手里骗到根本不存在的金币吗？可没得选，别的船都不肯载他。说不定他会被自己的本事吓一跳。,"Draco hesitates, is he sure he can con a Hyperion out of his non-existent gold? Well, he's got no choice, no other ship will take him aboard. Maybe he'll be surprised at what he can do."
 DracoStoryLoss,CHARACTER,Character losing,一方面，德拉科很懊恼自己再也没能回到年轻时那享乐放纵的生活；另一方面，他总算以某种方式摆脱了债务。,"On one hand, Draco was frustrated he never returned to the hedonistic life of his youth. On the other, he's finally free of his debt, in a way."
 DracoTeamName,CHARACTER,Draco's team name,命运之戏,Chance's Folly
 DracoVegaSecondaryStory,CHARACTER,Character motivations,医生不是应该都挺有钱的吗？港口这位连船费都凑不出来。看着像新手，说不定是个不错的……长期投资。,"Aren't doctors supposed to be somewhat wealthy? This one at port can't seem to make fare for the life of him. Seems new, maybe he could be a good... long-term investment."
 DruidMilitia_1,CHARACTER,Character name,艾丝黛尔,Estelle
-DruidMilitia_1Blurb,CHARACTER,Character story,或许正如人们对德鲁伊的刻板印象，艾丝黛尔战斗的动机源于痛心：她拼命守护的森林被毁了。坠星的一块碎片转瞬之间夺走了无数家园与生命，没能当场死去的动物则慢慢患上了星盲症。她无法接受这一切，而除了直捣毁灭的源头，她已无处可求。,"Perhaps stereotypically of a Druid, Estelle's motivation to fight lies in her anguish at the destruction of the forest she tried so hard to protect. In a flash, so many homes and lives were lost by a shard of the Fallen Star. The animals not immediately killed slowly went Starblind. This is unacceptable, and she has no where else to turn but directly to the source of the destruction. "
+DruidMilitia_1Blurb,CHARACTER,Character story,或许正如人们对德鲁伊的刻板印象，艾丝黛尔战斗的动机源于痛心:她拼命守护的森林被毁了。坠星的一块碎片转瞬之间夺走了无数家园与生命，没能当场死去的动物则慢慢患上了星盲症。她无法接受这一切，而除了直捣毁灭的源头，她已无处可求。,"Perhaps stereotypically of a Druid, Estelle's motivation to fight lies in her anguish at the destruction of the forest she tried so hard to protect. In a flash, so many homes and lives were lost by a shard of the Fallen Star. The animals not immediately killed slowly went Starblind. This is unacceptable, and she has no where else to turn but directly to the source of the destruction. "
 DruidMilitia_1Recruit,CHARACTER,Character story,我们要把土地连同它的丰饶一并夺回。,We shall take back the land and its bounty as well.
 DruidMilitia_2,CHARACTER,Character name,巴兹尔,Basil
 DruidMilitia_2Blurb,CHARACTER,Character story,想到有可能「重置」德里瓦斯托，巴兹尔私底下还有点兴奋——当然，前提是一切顺利。他见识过这件事把重商的议会搅成什么样，希望星尘落定之后，能有一个更公平、不那么向钱看的政权取而代之。,"Basil is secretly a little excited at the prospect of 'resetting' Drivasto, if things all go well, of course. He has seen the turmoil this has thrown its mercantilist council into and he hopes once the Stardust settles, a more fair, less money-focuses rulership can take its place."
@@ -222,15 +222,15 @@ DruidMilitia_3,CHARACTER,Character name,埃米尔,Emil
 DruidMilitia_3Blurb,CHARACTER,Character story,埃米尔爱动物，而且<i>气炸了</i>——这帮教团混蛋以为可以肆无忌惮地到处践踏。他们觉得自己的神有多了不起，可他们的神既不会给农田施肥，也不会给他们找衣服穿。,"Emil loves animals, and is <i>pissed</i> some cultist assholes think they can just trample all over the place with reckless abandon. They think their god is so important, but their god doesn't fertilize their farms or source the clothes on their backs."
 DruidMilitia_3Recruit,CHARACTER,Character story,让我上！,Let me at 'em!
 DruidMilitia_4,CHARACTER,Character name,艾普莉尔,April
-DruidMilitia_4Blurb,CHARACTER,Character story,艾普莉尔一直很难看清自己。不幸——或许也是幸运的是，这场危机逼着她迅速回答了所有难题，好专心反击；而这件事带来一个可喜的副作用：她的自信被抬到了前所未有的高度。,"April has always had a tough time figuring herself out. Unfortunately, or perhaps fortunately, this crisis has forced herself to quickly answer all the hard questions so she can focus on fighting back, which has had the welcome side-effect of boosting her confidence beyond any level it was before."
+DruidMilitia_4Blurb,CHARACTER,Character story,艾普莉尔一直很难看清自己。不幸——或许也是幸运的是，这场危机逼着她迅速回答了所有难题，好专心反击；而这件事带来一个可喜的副作用:她的自信被抬到了前所未有的高度。,"April has always had a tough time figuring herself out. Unfortunately, or perhaps fortunately, this crisis has forced herself to quickly answer all the hard questions so she can focus on fighting back, which has had the welcome side-effect of boosting her confidence beyond any level it was before."
 DruidMilitia_4Recruit,CHARACTER,Character story,我准备好了！,I'm ready!
 DruidMilitia_5,CHARACTER,Character name,阿代尔,Adair
 DruidMilitia_5Blurb,CHARACTER,Character story,阿代尔不想待在这儿，可似乎也没多少选择。这是座岛，他还能怎么办——游过大海去遥远的陆地？唔，也许吧……不，最好还是留下战斗。至少这样还有活下来的机会。,"Adair doesn't want to be here, but it doesn't seem like he has much of a choice. It's an island, what's he going to do, swim across the ocean to distant continents? Well, perhaps... No, it's probably best to stay here and fight. At least he has a chance to survive that."
 DruidMilitia_5Recruit,CHARACTER,Character story,如果你能反过来保护我，我想我可以帮忙。,"I suppose I can help, if you can protect me in turn."
 DruidMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-DruidMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+DruidMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 DruidMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
-EndingAniaraChangesStory,CHARACTER,Character story,她也明白还有别的事必须去做。对力量的追求剥去了她的人性，而她担心这份人性已经稀薄得可怕。\n    阿妮亚拉曾以为力量是赢得尊重的唯一途径，是让别人听你说话的唯一方法。但她的战斗无意间向她展示了另一种视角：敬慕可以比恐惧更强大。也许对力量的追逐只是一条捷径、一场与魔鬼的交易，而真正的强大来自你身边的人。,"She also understood what other things must be done as well. Her quest for power has stripped her of her humanity, and she fears such a resource had grown frighteningly limited.\n    Aniara once thought power was the only way to gain respect. The only way to have people listen to you. But her battles had inadvertently shown her an alternate perspective: admiration can be stronger than fear. Perhaps the quest for power was a shortcut, a devil's bargain, and true strength came from those around you."
+EndingAniaraChangesStory,CHARACTER,Character story,她也明白还有别的事必须去做。对力量的追求剥去了她的人性，而她担心这份人性已经稀薄得可怕。\n    阿妮亚拉曾以为力量是赢得尊重的唯一途径，是让别人听你说话的唯一方法。但她的战斗无意间向她展示了另一种视角:敬慕可以比恐惧更强大。也许对力量的追逐只是一条捷径、一场与魔鬼的交易，而真正的强大来自你身边的人。,"She also understood what other things must be done as well. Her quest for power has stripped her of her humanity, and she fears such a resource had grown frighteningly limited.\n    Aniara once thought power was the only way to gain respect. The only way to have people listen to you. But her battles had inadvertently shown her an alternate perspective: admiration can be stronger than fear. Perhaps the quest for power was a shortcut, a devil's bargain, and true strength came from those around you."
 EndingAniaraGetsWorseStory,CHARACTER,Character story,可代价是什么？残存的星尘从她攥紧的指缝间溜走，永远地失去了。那正是她的目标，否则她来这里做什么？巨大的耻辱感淹没了阿妮亚拉，她不会很快忘记。\n    也许这是教团的错；也许他们举行的仪式根本不对。假如，比如说，她做出类似的举动，把另一位神明的力量引到指尖，她会不会成功？\n    只能试试看了。,"But at what cost? The remaining Stardust slipped through the fingers of her tightened fist, lost forever. That was her goal, why else did she come here? A great shame washed over Aniara, one she would not soon forget.\n    Perhaps it was the fault of the cult; maybe they performed the wrong ritual. If, say, she committed a similar act that brought forth another god's power to her fingertips, would she be successful?\n    Only one way to find out."
 EndingAniaraNeutralStory,CHARACTER,Character story,她艰难地想要接受这个事实，但对她而言它依然成立。这是必须做的。她无法控制它，它只会控制她。\n    这是必须做的。\n    她失去了一份足以让她近乎无敌的力量。如今她只能继续那无尽而艰辛的奥术研究，只为再尝一口甜美的力量。总有一天，没人能再阻止她。\n    这是必须做的。,"She struggled to accept that fact, but it was true to her nonetheless. It had to be done. She could not have controlled it, it would have controlled her.\n    It had to be done.\n    It was a loss of a power that would have made her nigh invincible. Now must continue her endless, arduous research into the arcane for another taste of sweet strength. One day no one will be able to stop her.\n    It had to be done."
 EndingAzhaKeepsGoingStory,CHARACTER,Character story,但她知道真正的使命远未结束。她当初究竟为什么要退休？她清楚自己的国家需要她，而她也需要它。\n    阿莎用余下的日子帮助族人重建热闹的集市与安静的村庄，向任何需要帮助的人伸出援手。久而久之，「乐于助人的好手」这一名声盖过了她骑士队长的身份——她欣然接受了这样的转变。\n    而如果再发生一次坠星那样的事件，她知道自己一定第一个站出来迎战。,"But she knew her true mission was far from over. Why did she ever retire in the first place? She knows her country needs her, and she needs it.\n    Azha spent her remaining days helping her people reconstruct the bustling markets and quiet hamlets, lending her aid to anyone in need. Over time, her reputation as a helping hand preceded her station as a Knight Captain; a change she accepted with open arms.\n    And if anything like the Falling Star event happened again, she knew she would be first in line to fight back."
@@ -239,23 +239,23 @@ EndingAzhaVengeanceStory,CHARACTER,Character story,但她知道自己的使命�
 EndingCetusAndDStory,CHARACTER,Character story,刻托斯做到了不可能的事。刻托斯交到了……一个朋友。或者说，若时间能给出答案，或许不止是朋友。不过这些念头并不在他们心上——他们和德拉科整天泡酒吧、顺走值钱玩意儿、在这片土地上快意冒险。\n    刻托斯从未追问德拉科口中那笔必须偿还的债。事实上，刻托斯暗自希望那是个不可能还清的天文数字，这样他们的冒险就永远不会结束。要是他们知道真相就好了……,"Cetus had done the impossible. Cetus had made... A friend. Or perhaps, more than that, if time will tell. Such thoughts were not on their mind, however, as they and Draco filled their days patronizing bars, nicking valuables, and swashbuckling through the land.\n    Cetus never questioned the debt Draco claimed he had to pay. In fact, Cetus secretly wished it was an impossible amount of money, so they never had to cease their adventuring. If only they knew the truth..."
 EndingCetusGetsWorseStory,CHARACTER,Character story,可他们为什么要这么做？他们什么也没得到。为一份作废的合约拿命去赌，为一些自己并不喜欢的人，为一个只会轻视他们的帝国。这是刻托斯犯过的最大错误。\n   那就去他的吧。刻托斯不再回头，逃离了新获自由的阿斯特雷亚，一头扎进荒野深处，从此再无人见过……又或许，这才是他们最大的错误？,"But why did they do it? They got nothing out of it. Risking life and limb for a broken contract, people who they didn't like, and an Empire that has done nothing but scorn them. It was the biggest mistake Cetus had ever made.\n   To hell with it, then. Without looking back, Cetus fled the newly freed Astrea and flung themself deep into the wilderness, never to be seen again... Or perhaps, was that their biggest mistake?"
 EndingCetusLikesPeopleStory,CHARACTER,Character story,刻托斯身上有什么变了。面对新的决心，合约失败这件事甚至没在他们脑中闪过。他们曾以为自己永远找不到可以交心、共餐、共度长夜的人。可仅仅尝到一点这样的滋味，刻托斯就生出了贪得无厌的渴望。\n    于是，孤独的刻托斯、窃贼刻托斯、没出息的刻托斯，就此终结。于是，行善的刻托斯、爱热闹的刻托斯、朋友刻托斯，就此诞生。,"Something changed in Cetus. The fact that they had failed their contract never even crossed their mind in the face of their new resolve. Once they thought they would never find anyone with which to relate, break bread, or spend long nights. But after getting just a taste of such an experience, Cetus grew an insatiable hunger for more.\n    So here marks the end of Cetus the loner, Cetus the thief, Cetus the ne're-do-well. Thus, here marks the birth of Cetus the do-gooder, Cetus the party-goer, Cetus the friend."
-EndingCetusNeutralStory,CHARACTER,Character story,刻托斯一边甩开合约失败带来的刺痛，一边带着困惑的表情回望自己的旅程。他们……交到朋友了？否认了这么多年，刻托斯终于承认：世上确实有人并不想害他们。真稀奇。\n    莫非刻托斯对人的憎恶放错了地方？那么也许，他们真正的敌人是一个自己无法融入的社会——一个他们刚刚帮忙拯救的社会。\n    尽管有了这番新认识，刻托斯依然认为弊大于利，仍旧立誓离群索居。只不过，对人类境况的怨恨少了一些。钱也少了一些。,"While shrugging off the sting of failing their contract, Cetus looked back on their journey with a puzzled expression. Did they... Make friends? After years of denial, Cetus admits that, indeed, there are people out there who aren't out to get them. Curious.\n    Might it be that Cetus's hatred for people is misplaced? Perhaps then, their real enemy is a society for which they are unfit. One they just helped save.\n    Despite this new perspective, Cetus reckons that the cons still outweigh the pros, and still vows to live in isolation. Albeit, with less resentment for the human condition. And less money."
+EndingCetusNeutralStory,CHARACTER,Character story,刻托斯一边甩开合约失败带来的刺痛，一边带着困惑的表情回望自己的旅程。他们……交到朋友了？否认了这么多年，刻托斯终于承认:世上确实有人并不想害他们。真稀奇。\n    莫非刻托斯对人的憎恶放错了地方？那么也许，他们真正的敌人是一个自己无法融入的社会——一个他们刚刚帮忙拯救的社会。\n    尽管有了这番新认识，刻托斯依然认为弊大于利，仍旧立誓离群索居。只不过，对人类境况的怨恨少了一些。钱也少了一些。,"While shrugging off the sting of failing their contract, Cetus looked back on their journey with a puzzled expression. Did they... Make friends? After years of denial, Cetus admits that, indeed, there are people out there who aren't out to get them. Curious.\n    Might it be that Cetus's hatred for people is misplaced? Perhaps then, their real enemy is a society for which they are unfit. One they just helped save.\n    Despite this new perspective, Cetus reckons that the cons still outweigh the pros, and still vows to live in isolation. Albeit, with less resentment for the human condition. And less money."
 EndingDracoAndCStory,CHARACTER,Character story,而德拉科感觉很好。不是因为他输给了加莱亚，而是因为他得到了一个同谋。既然还债的过程能这么有意思，永远欠一位神的债又有什么关系？\n    后来，德拉科不再记自己还了多少。也许他早就还清了，那也无所谓。何必毁掉一件好事？\n    他唯一确定的是，刻托斯也有同样的感觉——而这件事带给他的快乐，胜过任何一枚金币。,"And Draco felt good. Not because he lost his bet against Galea, but because he had gained a partner in crime. Who cares if he was eternally indebted to a god, when he could have so much fun paying it off?\n    Eventually, Draco stopped tracking how much of his debt he had repaid. Perhaps he had already paid everything back, it didn't matter. Why ruin a good thing?\n    The one thing he did know is that Cetus felt the same, and that fact brought him more joy than any gold piece could."
-EndingDracoAndVStory,CHARACTER,Character story,德拉科也许输掉了与加莱亚的赌局，却得到了比金钱更强大的东西：一条出路。既然维加正在打造一把能割断他诅咒之线的刀，他就不再觉得有还债的必要。他很快就能自由了。\n    维加倒是乐在其中。这项工作既棘手又独特，而他对奥术的钻研让他更懂得欣赏自然万物。至于加莱亚，对这笔交易可完全不是这么想的。唉，反正已经不是德拉科的麻烦了。,"Draco might have lost his bet against Galea, but he had gained something more powerful than money: a way out. With Vega working on a knife to sever the strings of his curse, he no longer felt the need to pay back his debt. He would be free soon enough.\n    Vega enjoyed the work regardless. It was challenging and unique, and his delve into the arcane gave him greater appreciation for the natural world. Galea, on the other hand, felt quite differently about the arrangement. Oh well, it's not Draco's problem anymore."
-EndingDracoSacrificeNobleStory,CHARACTER,Character story,那一天，德拉科感受到了一种从未料到的情绪：解脱。不是因为他还清了债，而是因为他不再在乎了。他让心软的一面赢了。与其为了钱毁掉无辜者的生活，不如自己受苦。\n    再说，这真的算是他的问题吗？如果他拒绝还债，那不就变成加莱亚被<i>他</i>缠住了，而不是反过来？反正，被拴在更糟的神身上的人多的是。,"On that day, Draco felt something he never expected to feel: relief. Not because his debt was repaid, but because he ceased to care. He let his soft side win. Better he suffer than ruin the lives of innocents with money problems.\n    Besides, was it really his problem? If he refused to pay his debts, didn't that make Galea stuck with <i>him</i> and not the other way around? There were worse gods to be chained to, anyways."
+EndingDracoAndVStory,CHARACTER,Character story,德拉科也许输掉了与加莱亚的赌局，却得到了比金钱更强大的东西:一条出路。既然维加正在打造一把能割断他诅咒之线的刀，他就不再觉得有还债的必要。他很快就能自由了。\n    维加倒是乐在其中。这项工作既棘手又独特，而他对奥术的钻研让他更懂得欣赏自然万物。至于加莱亚，对这笔交易可完全不是这么想的。唉，反正已经不是德拉科的麻烦了。,"Draco might have lost his bet against Galea, but he had gained something more powerful than money: a way out. With Vega working on a knife to sever the strings of his curse, he no longer felt the need to pay back his debt. He would be free soon enough.\n    Vega enjoyed the work regardless. It was challenging and unique, and his delve into the arcane gave him greater appreciation for the natural world. Galea, on the other hand, felt quite differently about the arrangement. Oh well, it's not Draco's problem anymore."
+EndingDracoSacrificeNobleStory,CHARACTER,Character story,那一天，德拉科感受到了一种从未料到的情绪:解脱。不是因为他还清了债，而是因为他不再在乎了。他让心软的一面赢了。与其为了钱毁掉无辜者的生活，不如自己受苦。\n    再说，这真的算是他的问题吗？如果他拒绝还债，那不就变成加莱亚被<i>他</i>缠住了，而不是反过来？反正，被拴在更糟的神身上的人多的是。,"On that day, Draco felt something he never expected to feel: relief. Not because his debt was repaid, but because he ceased to care. He let his soft side win. Better he suffer than ruin the lives of innocents with money problems.\n    Besides, was it really his problem? If he refused to pay his debts, didn't that make Galea stuck with <i>him</i> and not the other way around? There were worse gods to be chained to, anyways."
 EndingDracoSacrificeRegretStory,CHARACTER,Character story,蠢，蠢，蠢。他为什么要掺和进来？他凭什么以为一个饱受战乱的土地会把他想要的钱双手奉上？最糟的是，他除了自己无人可怪。\n    那么问题就出在这儿了吧？无私只会给他招来越来越多的麻烦，如今他困在坑里，看不清出路。\n    那一部分必须被割掉。他必须变得冷酷无情。拿陌生人的钱，总比拿朋友的钱容易得多。于是德拉科不再交朋友；他只谈利益，而他料想自己余下的人生会非常……有趣。,"Stupid, stupid, stupid. Why did he have to get involved? Why did he think a war-torn land would hand him the money he desired? Worst of all, he had no one to blame but himself.\n    So that must be the problem then, right? Selflessness only got him into more and more trouble, and now he's stuck in a pit with no clear way out.\n    That part of him must be excised. He must become ruthless. It is much easier to take the money of a stranger than a friend. So now Draco no longer made friends; he had interests, and he figured the rest of his life would be very... Interesting."
-EndingLyraQuitsStory,CHARACTER,Character story,而她结束了。与帝国结束，与她的信仰结束，与她的王室身份结束。显然，权力集中于她家族那一小撮人手中，给这片土地带来的只有毁灭。哪有帝国是统治着一片片陨石坑，而不是统治人民的？\n    于是莱拉做出了选择：她的皇室血脉随父亲一同终结，帝国也随之终结。取而代之的将是一个自由的卡登斯——一个不需要她、也不需要伪神指引的卡登斯。也许到那时，这个新的卡登斯才能迎来和平。,"And she was done. Done with the Empire, done with her religion, and done with her royalty. Clearly, the consolidation of power into the small group that was once her family had wrought nothing but destruction to the land. What kind of an Empire rules over craters instead of people?\n    So Lyra made a choice: her Imperial lineage ended with her father, and with it, the Empire. In its place would be a free Cadens, one that did not need her, or the wisdom of a false god. Maybe then, this new Cadens would know peace."
-EndingLyraRebuildsStory,CHARACTER,Character story,但新女皇面前还有更艰巨的任务：重建。没有家族的支持，也没有信仰的指引，莱拉独自扛起从废墟上重建卡登斯帝国的重担。\n    与普通人并肩作战的经历，让莱拉学到了臣民的可贵视角，也深深影响了她的统治。权力不会再集中在那么少数人手里，她的人民也不会再发不出声音。\n    但愿在这套新的统治之下，这样的浩劫永远不会再发生。,"But an even greater task laid ahead for the new Empress: reconstruction. Without the support of her family, or the guidance of her faith, Lyra took it upon herself to rebuild Imperial Cadens from the ground up.\n    Spending time fighting alongside the common man, Lyra had learned the valuable perspective of her subjects, which greatly influenced her rule. No longer would so much power be in the hands of so few, and no more would her people go without their voices being heard.\n    Hopefully, under this new rule, a catastrophe like this would never happen again."
+EndingLyraQuitsStory,CHARACTER,Character story,而她结束了。与帝国结束，与她的信仰结束，与她的王室身份结束。显然，权力集中于她家族那一小撮人手中，给这片土地带来的只有毁灭。哪有帝国是统治着一片片陨石坑，而不是统治人民的？\n    于是莱拉做出了选择:她的皇室血脉随父亲一同终结，帝国也随之终结。取而代之的将是一个自由的卡登斯——一个不需要她、也不需要伪神指引的卡登斯。也许到那时，这个新的卡登斯才能迎来和平。,"And she was done. Done with the Empire, done with her religion, and done with her royalty. Clearly, the consolidation of power into the small group that was once her family had wrought nothing but destruction to the land. What kind of an Empire rules over craters instead of people?\n    So Lyra made a choice: her Imperial lineage ended with her father, and with it, the Empire. In its place would be a free Cadens, one that did not need her, or the wisdom of a false god. Maybe then, this new Cadens would know peace."
+EndingLyraRebuildsStory,CHARACTER,Character story,但新女皇面前还有更艰巨的任务:重建。没有家族的支持，也没有信仰的指引，莱拉独自扛起从废墟上重建卡登斯帝国的重担。\n    与普通人并肩作战的经历，让莱拉学到了臣民的可贵视角，也深深影响了她的统治。权力不会再集中在那么少数人手里，她的人民也不会再发不出声音。\n    但愿在这套新的统治之下，这样的浩劫永远不会再发生。,"But an even greater task laid ahead for the new Empress: reconstruction. Without the support of her family, or the guidance of her faith, Lyra took it upon herself to rebuild Imperial Cadens from the ground up.\n    Spending time fighting alongside the common man, Lyra had learned the valuable perspective of her subjects, which greatly influenced her rule. No longer would so much power be in the hands of so few, and no more would her people go without their voices being heard.\n    Hopefully, under this new rule, a catastrophe like this would never happen again."
 EndingLyraScorchedEarthStory,CHARACTER,Character story,但她没有结束。她的工作远未完成。她倾尽一生侍奉的这个帝国在她身边崩塌，自焚成灰。她绝不会让这种事再发生一次。\n    显然，有些东西必须改变。于是莱拉掌权，以女皇之身烧尽阿斯特雷亚的其余部分，再按自己的构想重建。不再有德里瓦斯托、卡登斯或高天圣庭。分裂时他们太脆弱、太无力；而团结在她之下，他们才会强大。,"But she was not done. Her work was far from over. This Empire she had dedicated her life to fell around her, burning itself to ashes. She would not let something like this happen again.\n    Clearly, something needed to change. So Lyra took charge, and used her new position as Empress to burn the rest of Astrea down and build it in her image. No more Drivasto, Cadens, or the High Firmament. Apart they were too brittle, too weak. But together, under her, they would be strong."
 EndingMaiaBecomesProudStory,CHARACTER,Character story,在暴力与喧哗之中，她最终确实找到了一个人，只不过不是她想找的那一个。玛雅终于找到了自己。\n    新的身体与人生被强加于她时，她当即拒绝了。但在看到自己所做的善事之后，玛雅终于接纳了它们。再说，她原先的身体和人生对她本来也没什么好处。\n    也许这正是她一直以来想要的，只是找不到合适的思绪去理解。,"In the midst of the violence and spectacle, she did end up finding someone, but not the person she wanted to find. Maia had finally found herself.\n    Since her new body and life were thrust upon her, she immediately rejected them. But upon seeing the good that she had done, Maia finally came to accept them. Besides, her old body and life weren't doing anything for her anyways.\n    Perhaps this is what she had wanted all along, but could not find the right thoughts to understand."
 EndingMaiaGivesUpStory,CHARACTER,Character story,那么，她找到了什么？只有暴力。只有更多想控制她的人。只有更深的绝望。最糟的是，她甚至找不到结束这场寻找的办法。\n    有什么意义呢？她又甩不掉继续寻找的那股冲动。也许有一天，玛雅会把自己逼进一个太过危险的境地，那时她终于能得到渴望已久的了结。\n    在那之前，她继续游荡。\n    独自一人。,"So, what did she find? Nothing but violence. Nothing but more people trying to control her. Nothing but more despair. Worst of all, she couldn't even find a way to end her search.\n    What's the point? It's not like she can shake the compulsion to keep searching. Maybe one day Maia will find herself in a situation too dangerous for her and she will finally find the resolution she craves.\n    Until then, she wanders.\n    Alone."
-EndingMaiaNeutralStory,CHARACTER,Character story,那么她完成寻找了吗？可以说，算是部分完成。玛雅找到的不是某个人，而是某<i>样</i>东西：对生命的珍视。\n    通过善行与友善的交谈，她得以片刻抗拒那永无止境的寻找的召唤，造出一瞬的极乐。\n    遗憾的是，她觉得自己仍被诅咒着。被操纵的身体与被操纵的心智，都算不上活着，所以她继续寻找。不只是找那个人，也是在找一条让自己脱离这具木质「牢笼」的路。,"So did she finish her search? Somewhat, one might say. Maia did not find someone, but rather some<i>thing</i>: an appreciation for life.\n    Through her good deeds and friendly chats, she was able to resist the call of her never-ending search for a moment, creating a fleeting bliss.\n    Unfortunately, she is still cursed, she feels. A puppeted body and a puppeted mind is no way to live, so she searches on. Not just for the person, but a way to free herself from her wooden 'prison'."
-EndingSolOnlyStory,CHARACTER,Character story,索尔完成了他的圣战。回到许珀里翁教团后，他因做到了旭日史上无人能及之事而备受尊崇：扼杀一位敌对的神明。他被奉为圣人。\n    然而义者无休，因为这只是一段漫长生涯的开端——之后是斩下无数亵渎者的头颅、屠戮无数罪人。有人或许会想，比起一个重获新生的许珀里翁教团，星尘的蔓延说不定反而是一个更少死亡的未来。,"Sol finished his crusade. Upon return to the Hyperion Order, he was revered for doing something no one else in the history of the rising sun managed to do: snuff out a rival god. He was revered as a saint.\n    However, there is no rest for the righteous, as this only marked the beginning of a long career of beheading blasphemers and slaughtering sinners. Some might have wondered, in a way, if the proliferation of the Stardust might have been a less deadly future than a newly invigorated Hyperion Order."
+EndingMaiaNeutralStory,CHARACTER,Character story,那么她完成寻找了吗？可以说，算是部分完成。玛雅找到的不是某个人，而是某<i>样</i>东西:对生命的珍视。\n    通过善行与友善的交谈，她得以片刻抗拒那永无止境的寻找的召唤，造出一瞬的极乐。\n    遗憾的是，她觉得自己仍被诅咒着。被操纵的身体与被操纵的心智，都算不上活着，所以她继续寻找。不只是找那个人，也是在找一条让自己脱离这具木质「牢笼」的路。,"So did she finish her search? Somewhat, one might say. Maia did not find someone, but rather some<i>thing</i>: an appreciation for life.\n    Through her good deeds and friendly chats, she was able to resist the call of her never-ending search for a moment, creating a fleeting bliss.\n    Unfortunately, she is still cursed, she feels. A puppeted body and a puppeted mind is no way to live, so she searches on. Not just for the person, but a way to free herself from her wooden 'prison'."
+EndingSolOnlyStory,CHARACTER,Character story,索尔完成了他的圣战。回到许珀里翁教团后，他因做到了旭日史上无人能及之事而备受尊崇:扼杀一位敌对的神明。他被奉为圣人。\n    然而义者无休，因为这只是一段漫长生涯的开端——之后是斩下无数亵渎者的头颅、屠戮无数罪人。有人或许会想，比起一个重获新生的许珀里翁教团，星尘的蔓延说不定反而是一个更少死亡的未来。,"Sol finished his crusade. Upon return to the Hyperion Order, he was revered for doing something no one else in the history of the rising sun managed to do: snuff out a rival god. He was revered as a saint.\n    However, there is no rest for the righteous, as this only marked the beginning of a long career of beheading blasphemers and slaughtering sinners. Some might have wondered, in a way, if the proliferation of the Stardust might have been a less deadly future than a newly invigorated Hyperion Order."
 EndingStoryEnd,CHARACTER,Character story,人们不禁要想，如果当初是另一群野心勃勃的冒险者踏入迷雾，又会怎样。唉，如今已无所谓了，毕竟星尘已经永远消失了……对吧？,"One wonders what might have happened if a different group of ambitious adventurers took the plunge into the fog. Alas, it doesn't matter now, since the Stardust is gone for good... Right?"
 EndingStoryStart,CHARACTER,Character story,星辰的破碎似乎令星尘消散，露出一片心智破碎、帝国倾颓的土地。这是一段艰苦的旅程，但<CharName>做了必须做的事。,"The shattering of the Star seemed to dissipate the Stardust, revealing a land of broken minds and fallen empires. It was a harsh journey, but <CharName> did what had to be done."
 EndingVegaFailsButFeelsBadStory,CHARACTER,Character story,尽管如此，维加还是失败了。他什么也没学到，只带着更多疑问和灰头土脸的羞愧离开阿斯特雷亚。他哪有脸这样回到学院？\n    他没有回去。他把自己关在满是灰尘的房间里，为过错痛苦挣扎，一次又一次想要纠正它们。可他怎么纠正得了？反复翻看残缺的旧笔记，翻到一定次数，虚空的呼唤就会找上你。,"Despite everything, Vega had failed. He learned nothing, and left Astrea with only more questions and his tail between his legs. How could he return to the College with such shame?\n    He didn't. Instead, he spent his remaining days locking himself in a dusty room agonizing over his mistakes, trying again and again to correct them. But how could he? There is only so many times you can go over old, incomplete notes before the call of the void takes you."
 EndingVegaFailsButFeelsGoodStory,CHARACTER,Character story,尽管没能找到解药、也没能扬名立万，维加离开阿斯特雷亚时脸上却挂着满足的微笑。为什么不呢？他学到了比任何医学知识都重要的东西——人生是一场马拉松，不是短跑。\n    回到学院，维加做好了被同僚责备的准备，没想到迎接他的只有赞誉。他是唯一一个有勇气接下不可能任务的人，而这种特质只属于最优秀、最杰出的人。,"Despite failing his goal of finding a cure and making a name for himself, Vega left Astrea with a satisfied smile on his face. Why would he not? He learned something more important than any medical knowledge- that life was a marathon, not a race.\n    Returning to the College, Vega braced himself for admonishment from his peers, but to his surprise he received nothing but praise. He was the one soul brave enough willing to tackle an impossible task, a trait reserved only for the best and brightest."
-EndingVegaSucceedsStory,CHARACTER,Character story,在得知星尘的真实本质之后，维加用余生在学院里一丝不苟地试图揭开它的秘密。他越出了医学的疆界，打开了奥术的潘多拉魔盒，走上了一条从未设想过的道路。\n    这带来一个始料未及的副作用：他因此分了心，背离了当初扬名立万的初衷……但维加的鼻子埋得太深，根本没注意到。,"After learning the true nature of the Stardust, Vega spent his remaining years in the College fastidiously attempting to uncover its secrets. Beyond the realm of medicine, Vega opened the Pandora's Box of the arcane, leading him down a path he never imagined himself walking.\n    This had the unforeseen side-effect of distracting him from his studies, going against his original goal of making a name for himself... But Vega's nose was buried too deep inside his clandestine grimoires for him to notice."
+EndingVegaSucceedsStory,CHARACTER,Character story,在得知星尘的真实本质之后，维加用余生在学院里一丝不苟地试图揭开它的秘密。他越出了医学的疆界，打开了奥术的潘多拉魔盒，走上了一条从未设想过的道路。\n    这带来一个始料未及的副作用:他因此分了心，背离了当初扬名立万的初衷……但维加的鼻子埋得太深，根本没注意到。,"After learning the true nature of the Stardust, Vega spent his remaining years in the College fastidiously attempting to uncover its secrets. Beyond the realm of medicine, Vega opened the Pandora's Box of the arcane, leading him down a path he never imagined himself walking.\n    This had the unforeseen side-effect of distracting him from his studies, going against his original goal of making a name for himself... But Vega's nose was buried too deep inside his clandestine grimoires for him to notice."
 EnemyLeaderName1,CHARACTER,Name for a strong enemy,星盲,Starblind
 FighterMilitia_1,CHARACTER,Character name,卡多,Cador
 FighterMilitia_1Blurb,CHARACTER,Character story,卡多不确定自己的运气算极好还是极坏。他一直想参与一场史诗般的战役，搏一次荣耀，却又怀疑自己的能力，四处寻求一切能得到的帮助。按说这种犹豫不决会让他成为星盲症的完美牺牲品，可不知为何它似乎总是绕着他走。,"Cador is not sure he has extraordinarily good or bad luck. He always wished to participate in an epic battle and a chance at glory, but he is second-guessing his ability and is looking for all the help he can get. Normally, this indecision would make him the perfect victim of Starblindness, but for some reason it always seems to escape him."
@@ -273,7 +273,7 @@ FighterMilitia_5,CHARACTER,Character name,布莱恩,Bryan
 FighterMilitia_5Blurb,CHARACTER,Character story,布莱恩平时喜欢从基本原理上弄清事情，但他觉得这个问题最好用剑锋来解决。也许有一天他会走上学术之路，但眼下，能为同伴当盾牌让他感到自豪。,"Bryan is normally one to try to figure things out at their fundamentals, but he figures this problem is best solved with the sharp end of a sword. Perhaps one day he will be destined for academia, but for now finds pride in being his allies' shield."
 FighterMilitia_5Recruit,CHARACTER,Character story,好，从哪儿开始？,"Alright, where should I start?"
 FighterMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-FighterMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+FighterMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 FighterMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 FinalBoss,CHARACTER,Name for the final boss - a dead god,阿斯特的遗骸,Aster's Corpse
 FinalBossBlurb,CHARACTER,Story premise for Sagittaire,神明死去之时，会发生什么？,What happens when a God dies?
@@ -296,7 +296,7 @@ KnightMilitia_5,CHARACTER,Character name,阿利斯泰尔,Alistair
 KnightMilitia_5Blurb,CHARACTER,Character story,阿利斯泰尔是个爱吹牛的家伙，在酒馆里用他那些勇敢与骑士精神的故事把所有人唬得一愣一愣。只不过……他的故事没有一个是真的。他其实几乎什么都做不了。嗯，他想，现在正是让那些故事成真的好时机。,"Alistair is a hot-shot, impressing everyone in the tavern with his tales of bravery and chivalry. Except... None of his stories are true. He actually can't really do much at all. Well, he guesses now is a good a time as any to actually live his tales."
 KnightMilitia_5Recruit,CHARACTER,Character story,咱们是要敲人脑袋吗？<size=75%>那样会死人的，对吧？</size>,"Are we crackin' skulls? <size=75%>That kills people, right?</size>"
 KnightMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-KnightMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+KnightMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 KnightMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 Locked,CHARACTER,Stand-in for the name of a character the player has not unlocked yet,未解锁,Locked
 Lyra,CHARACTER,Name for a hero character,莱拉,Lyra
@@ -307,10 +307,10 @@ LyraCetusSecondaryStory,CHARACTER,Character motivations,就像从暗处浮现的
 LyraDracoSecondaryStory,CHARACTER,Character motivations,登船时，她遇到一个魅力无穷的男人，承诺能提供远超她想象的助力。想到岛上可能有什么在等着她，她立刻邀请他上船。任何帮助都欢迎。,"While boarding her ship, she came across a man who was boundlessly charming, promising assistance beyond her wildest dreams. Afraid of what might greet her on the isle, she promptly invited him aboard. Any help is welcome."
 LyraLeaderStory,CHARACTER,Character motivations,「再说，」她想，「只要回到父亲身边，我们就能一劳永逸地把事情扳回正轨。」,"'Besides', she thinks, 'Once I reach my father's side, we can set things right once and for all'."
 LyraMaiaSecondaryStory,CHARACTER,Character motivations,莱拉匆匆穿过港口，差点被一个怯生生的女孩绊倒——那女孩正在找去阿斯特雷亚的办法。女孩说自己是去岛上找人，莱拉认为出手相助是自己的贵族职责，便带上了她。,"Rushing through the port, Lyra almost tripped over a meek girl looking for a way to get to Astrea. The girl claimed she was looking for someone on the island, which Lyra considered it her noble duty to help, so she brought her along."
-LyraSolSecondaryStory,CHARACTER,Character motivations,途中，莱拉不禁注意到一个男人身上散发着强烈的气场，他坚决要帮助任何人对抗那神秘的威胁。起初她还有些不安，但最终认定：敌人的敌人就是朋友。,"On her way, Lyra could not help but notice an intense aura emanating from a man very determined to help anyone fight against the mysterious threat. Initially uneasy, she concludes any enemy of her enemy is her friend."
+LyraSolSecondaryStory,CHARACTER,Character motivations,途中，莱拉不禁注意到一个男人身上散发着强烈的气场，他坚决要帮助任何人对抗那神秘的威胁。起初她还有些不安，但最终认定:敌人的敌人就是朋友。,"On her way, Lyra could not help but notice an intense aura emanating from a man very determined to help anyone fight against the mysterious threat. Initially uneasy, she concludes any enemy of her enemy is her friend."
 LyraStoryLoss,CHARACTER,Character losing,莱拉再也没能回到家人身边，也始终不知道他们的真实境况。最终她的姓氏湮没于历史，她的帝国如风中尘埃般消散。,"Lyra never returned to her family and never got to know of their true state. Eventually her family name was lost to history, and her Empire faded away like dust in the wind."
 LyraTeamName,CHARACTER,Lyra's team name,星辰的继承者,Heir to the Stars
-LyraVegaSecondaryStory,CHARACTER,Character motivations,出港途中，莱拉觉得自己撞上了好运：一个身穿学者服饰的男人正想方设法挤上任何驶往阿斯特雷亚的船。她决定带上他——任何帮助都欢迎。,"On her way out of port, Lyra strikes what she sees as good fortune: a man in academic adornment trying to force his way onto any ship sailing for Astrea. She shall take him along, any help is welcome."
+LyraVegaSecondaryStory,CHARACTER,Character motivations,出港途中，莱拉觉得自己撞上了好运:一个身穿学者服饰的男人正想方设法挤上任何驶往阿斯特雷亚的船。她决定带上他——任何帮助都欢迎。,"On her way out of port, Lyra strikes what she sees as good fortune: a man in academic adornment trying to force his way onto any ship sailing for Astrea. She shall take him along, any help is welcome."
 MageMilitia_1,CHARACTER,Character name,凯尔,Kell
 MageMilitia_1Blurb,CHARACTER,Character name,凯尔曾以为自己是那个要改变世界的人。在一切急转直下之前，他正在组建一支叛军，打算潜入帝国首都，一举推翻王室。一方面，这次事件也许终于能实现他的目标；另一方面，他宁愿那是自己亲手做的。,"Kell thought he was the one that was going to change the world. Before everything went south, he was putting together a team of rebels to infiltrate the Imperial capital and take down the Royal Family once and for all. On one hand, this event might finally accomplish his goal. On the other hand, he wishes he did it himself."
 MageMilitia_1Recruit,CHARACTER,Character name,我可以信你，对吧？你也可以信我。,"I can trust you, right? You can trust me."
@@ -327,14 +327,14 @@ MageMilitia_5,CHARACTER,Character name,拉维妮娅,Lavinia
 MageMilitia_5Blurb,CHARACTER,Character story,笑着撑过去就好，别让他们看出你心里在崩溃，拉维妮娅这么想着。如果所有人都觉得你害怕，他们就会杀了你！只要显得冷静自若，他们就不会来招惹你。一边笑一边杀人，看起来就很正常，对吧？,"Just smile through it, don't let them know you're freaking out inside, Lavinia thinks. If everyone thinks you're scared, they'll kill you! Just seem cool and collected, then they won't mess with you. Smiling while killing makes you look sane, right?"
 MageMilitia_5Recruit,CHARACTER,Character story,当然！我可喜欢这儿了！哈哈！,Of course! I love it here! Haha!
 MageMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-MageMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+MageMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 MageMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 Maia,CHARACTER,Name for a hero character,玛雅,Maia
 MaiaAniaraSecondaryStory,CHARACTER,Character motivations,玛雅不明白这个气势逼人的女人为什么这么执着于她。女人说会帮她找到那个特定的人，但她觉得这底下藏着别的动机。,"Maia doesn't understand why this imposing woman is so drawn to her. The woman says she will help Maia find her certain someone, but she feels that there is an ulterior motive hidden beneath."
 MaiaAzhaSecondaryStory,CHARACTER,Character motivations,玛雅怎么都甩不掉那位在她身边殷勤照料的老骑士。她忍不住承认自己在找某个人，而这似乎让这位老兵把她的任务当成了自己的事。,"Maia can't do anything to shake the old knight fawning over her. She couldn't help but admit that's looking for a certain someone, and that seems to have caused this veteran to take her up on her mission."
 MaiaBlurb,CHARACTER,Character description,作为一位傀儡大师的女儿，玛雅追随父亲的脚步，亲手制作了人形的人偶。她更愿意躲在他们身后与人打交道，因为她连和自己都难以交谈。,"As the daughter of a master puppeteer, Maia has followed in her father's footsteps by building her own human-like marionettes. She much prefers to hide behind them to deal with people, as she has trouble talking to anyone, even herself."
-MaiaCetusSecondaryStory,CHARACTER,Character motivations,玛雅松了口气：帮她找到去阿斯特雷亚的船的人，似乎除了自己谁都不关心。但愿他们别把她寻找某人的执念误当成真正的情感。,Maia feels relief that the person helping her find passage to Astrea doesn't seem to care about anything but themself. Hopefully they don't mistake her compulsion to find a certain someone as a true feeling.
-MaiaDracoSecondaryStory,CHARACTER,Character motivations,不行，她必须抗拒。港口这个男人太像……<i>他</i>了。玛雅被拉扯向两个方向：她的心完全不想理会这个在港口试图讨好她的人，可那股执念却让她无法抗拒地被吸引过去。而他偏偏声称会帮她找到某个人。,"No, she must resist. This man at port is too much like... <i>him</i>. Maia is pulled in two directions as her heart wants nothing to do with the man attempting to charm her at port, but her compulsion feels too drawn to him to resist. He claims he'll help her find a certain someone, unfortunately."
+MaiaCetusSecondaryStory,CHARACTER,Character motivations,玛雅松了口气:帮她找到去阿斯特雷亚的船的人，似乎除了自己谁都不关心。但愿他们别把她寻找某人的执念误当成真正的情感。,Maia feels relief that the person helping her find passage to Astrea doesn't seem to care about anything but themself. Hopefully they don't mistake her compulsion to find a certain someone as a true feeling.
+MaiaDracoSecondaryStory,CHARACTER,Character motivations,不行，她必须抗拒。港口这个男人太像……<i>他</i>了。玛雅被拉扯向两个方向:她的心完全不想理会这个在港口试图讨好她的人，可那股执念却让她无法抗拒地被吸引过去。而他偏偏声称会帮她找到某个人。,"No, she must resist. This man at port is too much like... <i>him</i>. Maia is pulled in two directions as her heart wants nothing to do with the man attempting to charm her at port, but her compulsion feels too drawn to him to resist. He claims he'll help her find a certain someone, unfortunately."
 MaiaLeaderStory,CHARACTER,Character motivations,玛雅只希望，等他们上岸之后，自己能终于被彻底放过。,"Maia just wishes that, once they reach shore, she will be left alone once and for all."
 MaiaLyraSecondaryStory,CHARACTER,Character motivations,也许这位贵族能帮上忙，玛雅在港口看到一位佩戴勋章的战法师时这么想。她不习惯与王室相处，可那股执念太强，让她没法不去请求公主帮忙找人。,"Maybe this noble can help, Maia thinks as she spots a decorated Battlemage at port. She isn't used to being around royalty, but her compulsion is too strong to not ask the Princess for helping finding a certain someone."
 MaiaSolSecondaryStory,CHARACTER,Character motivations,这男人太强了，这男人太疯了。港口这个男人，也许正是玛雅无法抗拒地想要踏上那趟通往地狱的单程旅行的完美同伴。,"This man is too strong, this man is too crazy. This man at port might be the perfect companion on a one-way trip to hell Maia can't help but feel compelled to visit."
@@ -342,10 +342,10 @@ MaiaStoryLoss,CHARACTER,Character losing,玛雅咽下最后一口气时，脸上
 MaiaTeamName,CHARACTER,Maia's team name,人偶，人偶,"Marionette, Marionette"
 MaiaVegaSecondaryStory,CHARACTER,Character motivations,医生是玛雅最不想同行的人，但看起来她也没多少选择。也许上岸之后很快就能分开——只要他别对帮她找人这件事太感兴趣。,"A doctor is the last thing Maia wants to travel with, but it doesn't look like she has much of a choice. Maybe they can separate shortly after reaching shore, so long as he doesn't get too interested in helping her find a certain someone."
 MonkMilitia_1,CHARACTER,Character name,盖尔,Gael
-MonkMilitia_1Blurb,CHARACTER,Character story,盖尔一向喜欢抹去自己的行踪，每隔几年就想把自己的过往擦干净。他真的叫「盖尔」吗？他一直都是武僧吗？他来自德里瓦斯托、卡登斯帝国，还是别处？他真的忠于这位领袖吗？如果这一切莫名其妙地让他躲过了星盲症，那又有什么关系呢？,"Gael has always liked to hide his tracks, attempting to erase his history every couple years. Is his name really 'Gael'? Has he always been a Monk? Is he from Drivasto, Imperial Cadens, or elsewhere? Is he really loyal to this leader? Does it really matter if all this has somehow allowed him to escape Starblindness?"
+MonkMilitia_1Blurb,CHARACTER,Character story,盖尔一向喜欢抹去自己的行踪，每隔几年就想把自己的过往擦干净。他真的叫「盖尔」吗？他一直都是僧侣吗？他来自德里瓦斯托、卡登斯帝国，还是别处？他真的忠于这位领袖吗？如果这一切莫名其妙地让他躲过了星盲症，那又有什么关系呢？,"Gael has always liked to hide his tracks, attempting to erase his history every couple years. Is his name really 'Gael'? Has he always been a Monk? Is he from Drivasto, Imperial Cadens, or elsewhere? Is he really loyal to this leader? Does it really matter if all this has somehow allowed him to escape Starblindness?"
 MonkMilitia_1Recruit,CHARACTER,Character story,就这一次，之后就消失。,"Just this once, then I'm gone."
 MonkMilitia_2,CHARACTER,Character name,科马克,Cormac
-MonkMilitia_2Blurb,CHARACTER,Character story,科马克的梦想一直是在乡下找个地方安顿下来，当个抄书人，在宁静的田园里安安稳稳地写字度日。在星尘之下，这样的抱负绝无可能实现，所以他觉得这问题只有一个解法：把这一切都清除掉。,"Cormac's dream was always to settle down in some rural abode and become a scribe, spending his time peacefully scribbling away in the serene countryside. Such an ambition is impossible to accomplish within this Stardust, so there's only one solution to that problem he figures: get rid of it all. "
+MonkMilitia_2Blurb,CHARACTER,Character story,科马克的梦想一直是在乡下找个地方安顿下来，当个抄书人，在宁静的田园里安安稳稳地写字度日。在星尘之下，这样的抱负绝无可能实现，所以他觉得这问题只有一个解法:把这一切都清除掉。,"Cormac's dream was always to settle down in some rural abode and become a scribe, spending his time peacefully scribbling away in the serene countryside. Such an ambition is impossible to accomplish within this Stardust, so there's only one solution to that problem he figures: get rid of it all. "
 MonkMilitia_2Recruit,CHARACTER,Character story,我们就不能找个安静的好地方歇一歇吗？……好吧。,Can't we just find a nice and quiet place to rest? ...Fine.
 MonkMilitia_3,CHARACTER,Character name,玛德琳,Madeline
 MonkMilitia_3Blurb,CHARACTER,Character story,玛蒂<i>才</i>刚开始搞懂「人生」这回事，这该死的世界就要完蛋了。算了吧，也许这就是一种成年礼？就像每个人到了青春期都得跟一个黑暗教团打一场游击战一样。,"Maddy was <i>just</i> starting to figure out this whole 'life' thing before the whole godsdamned world had to end. Oh well, maybe this is just a right of passage? Like, everyone has to fight guerilla warfare against against a dark cult, like puberty."
@@ -354,10 +354,10 @@ MonkMilitia_4,CHARACTER,Character name,盖伊,Guy
 MonkMilitia_4Blurb,CHARACTER,Character story,盖伊什么都无所谓。在修道院里修习正念？很好。屠杀那个想占据他土地的教团？也行。帮这些所谓的「英雄」理清明显属于私人问题的纠结？盖伊觉得挺好。,Guy's cool with just about anything. Practising mindfulness at the monastery? Great. Slaughtering the cult trying to take over his land? Sure. Helping these so-called 'heroes' work through what is clearly personal problems? Sounds good to Guy.
 MonkMilitia_4Recruit,CHARACTER,Character story,行啊，听起来不错。,"Yeah sure, sounds good."
 MonkMilitia_5,CHARACTER,Character name,亚历克斯,Alex
-MonkMilitia_5Blurb,CHARACTER,Character story,亚历克斯其实从没想过要当武僧，他们一直梦想成为世界级的武术家。遗憾的是，他们从来没有这方面的天赋，不过强大的心智也算是一种慰藉。也许有一天他们能像那些高手一样挥拳，但他们想，在战场上，为了活命用什么手段其实都无所谓。,"Alex never actually wanted to be a Monk, instead they always dreamed of being a world-class martial artist. Unfortunately, they never had the aptitude for it, but still found solace in having a strong mind. Maybe one day they'll throw blows like the greats, but they figure on the battlefield, it doesn't really matter what you do to survive."
+MonkMilitia_5Blurb,CHARACTER,Character story,亚历克斯其实从没想过要当僧侣，他们一直梦想成为世界级的武术家。遗憾的是，他们从来没有这方面的天赋，不过强大的心智也算是一种慰藉。也许有一天他们能像那些高手一样挥拳，但他们想，在战场上，为了活命用什么手段其实都无所谓。,"Alex never actually wanted to be a Monk, instead they always dreamed of being a world-class martial artist. Unfortunately, they never had the aptitude for it, but still found solace in having a strong mind. Maybe one day they'll throw blows like the greats, but they figure on the battlefield, it doesn't really matter what you do to survive."
 MonkMilitia_5Recruit,CHARACTER,Character story,乐意效劳。,Happy to help.
 MonkMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-MonkMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+MonkMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 MonkMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 MyrmidonMilitia_1,CHARACTER,Character name,塔莉娅,Thalia
 MyrmidonMilitia_1Blurb,CHARACTER,Character story,塔莉娅会告诉你，她的眼睛是在一场为世界而战的史诗战役中受伤的；但真相是某个平静的傍晚她狠狠摔了一跤。她一直为自己至今平庸的人生感到羞愧，如今终于有机会证明自己，成为她一直向往的灵巧斥候。,"Thalia will tell you she injured her eye in an epic battle for the sake of the world, but she really lost it after a nasty trip one peaceful evening. Always embarrassed at how boring her boring her life has been so far, she finally has the chance to prove herself as the skilled Scout she always wanted to be. "
@@ -375,7 +375,7 @@ MyrmidonMilitia_5,CHARACTER,Character name,妮拉,Nera
 MyrmidonMilitia_5Blurb,CHARACTER,Character story,妮拉的技巧只有她的决心能盖过。这帮教团信徒以为自己是谁，敢这样闯进她的家乡？她从没见过他们，如今她想让他们只看见她的鞋底。,"Nera's skill is outshined only by her determination. Who do these cultists think they are bursting into her homeland like this? She's never seen them before, and now she wants them to see only the bottom of her shoe."
 MyrmidonMilitia_5Recruit,CHARACTER,Character story,不用你说第二遍。,You don't have to tell me twice.
 MyrmidonMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-MyrmidonMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+MyrmidonMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 MyrmidonMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 Ordinator,CHARACTER,Name for an advanced enemy type,督官,Ordinator
 OrdinatorRecruit,CHARACTER,Brainwashing the enemy,可是……星辰……,But... The Star...
@@ -392,15 +392,15 @@ ScholarMilitia_4,CHARACTER,Character name,托马斯,Thomas
 ScholarMilitia_4Blurb,CHARACTER,Character story,托马斯从没见过这么多人聚在一起，更别说真正的战斗了。尽管身为学者，他从未进过正规学院，全靠自学。即便如此，他渊博的学识与那些所谓「受过教育」的同侪相比毫不逊色，有时甚至更胜一筹。,"Thomas has never seen this many people at once, let alone real combat. Despite being a Scholar, he never went to an accredited academy, and instead taught everything himself. Nevertheless, his wealth of knowledge matches and even sometimes exceeds his so-called 'educated' peers."
 ScholarMilitia_4Recruit,CHARACTER,Character story,好，我做得来。我能帮上忙。,"Okay, I can do it. I can help."
 ScholarMilitia_5,CHARACTER,Character name,尤妮卡,Yunica
-ScholarMilitia_5Blurb,CHARACTER,Character story,尤妮卡很喜欢她在一间积灰的图书馆深处读到的旧故事：一位才华横溢的谋略家，与一个诬陷他入狱的国王开战。她一直想参与这样的传说，觉得眼下发生的事也差不多够格——尽管比起真正上阵厮杀，她更愿意读她的故事。说不定这一次背后也有一位邪神？,"Yunica is fond of an old story she read in the back of some dusty library, about a brilliant tactician fighting a war against a king that falsely imprisoned them. She always wanted to take part in such a tale, and figures whatever's happening now is close enough, though she'd rather read her tales than actually take part in the fighting. Maybe an evil god is behind this one, too?"
+ScholarMilitia_5Blurb,CHARACTER,Character story,尤妮卡很喜欢她在一间积灰的图书馆深处读到的旧故事:一位才华横溢的谋略家，与一个诬陷他入狱的国王开战。她一直想参与这样的传说，觉得眼下发生的事也差不多够格——尽管比起真正上阵厮杀，她更愿意读她的故事。说不定这一次背后也有一位邪神？,"Yunica is fond of an old story she read in the back of some dusty library, about a brilliant tactician fighting a war against a king that falsely imprisoned them. She always wanted to take part in such a tale, and figures whatever's happening now is close enough, though she'd rather read her tales than actually take part in the fighting. Maybe an evil god is behind this one, too?"
 ScholarMilitia_5Recruit,CHARACTER,Character story,请带上我，我想看的东西有很多。,"Please take me along, there is a lot I wish to see."
 ScholarMilitia_6,CHARACTER,Character name,赫特雅,Hetja
-ScholarMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱：自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
+ScholarMilitia_6Blurb,CHARACTER,Character story,一位勇敢高贵的英雄，踏上讨伐大恶的旅程。赫特雅习惯了身陷陌生境地，但这一次实在离谱:自己怎么到这儿来的？为什么变成这副模样？尽管如此，赫特雅依然平静。他们知道自己很快就会回到来处——毕竟死亡从来没能把他们困住。,"A brave and noble hero on a quest to vanquish a great evil. Hetja is used to finding themselves in unfamiliar situations but this one takes the cake. How did they get here? Why do they look like this? Despite this, Hetja is calm. They know they will return to whence they came soon, as death has never been a force that has kept them down."
 ScholarMilitia_6Recruit,CHARACTER,Character story,……在找……她……,…Looking… For Her…
 Sol,CHARACTER,Name for a hero character,索尔·伊格尼斯,Sol Ignis
 SolAniaraSecondaryStory,CHARACTER,Character motivations,最不圣洁的异教徒！一个可怕的女巫竟想加入<i>他</i>的使命？她浑身散发着伪神的腐臭，但只要让她见识神圣的真理，她就会成为强大的盟友。,"Heathen most unholy! A terrible witch is trying to join <i>his</i> mission? The rotten stench of false gods permeates her, but one just needs to show her the Divine Truth and she will become a powerful ally."
 SolAzhaSecondaryStory,CHARACTER,Character motivations,一位被伪星放过的骑士，自称与他志同道合，要把每一个异教徒都逐出阿斯特拉——可她没有看见光。等她看清真相，就不得不沐浴在祂的神圣光辉之下。,"A knight spared by the false Star claims to share his goal of routing each and every heathen out of Astra, but she does not see the Light. Once she sees the Truth, she will have no choice but to bask in His Divine Radiance."
-SolBlurb,CHARACTER,Character description,作为许珀里翁教团的虔信者，索尔·伊格尼斯来到这片颓败之地只为了一件事：净化那些崇拜错误星辰的人。对他而言，只有一颗真正的星，而它从未失约于黎明。,"A Devout of the Hyperion Order, Sol Ignis has come to these crestfallen lands for one thing only: to cleanse it of those worshiping the wrong star. To him, there is only one true star and it has never failed to hail the Dawn."
+SolBlurb,CHARACTER,Character description,作为许珀里翁教团的虔信者，索尔·伊格尼斯来到这片颓败之地只为了一件事:净化那些崇拜错误星辰的人。对他而言，只有一颗真正的星，而它从未失约于黎明。,"A Devout of the Hyperion Order, Sol Ignis has come to these crestfallen lands for one thing only: to cleanse it of those worshiping the wrong star. To him, there is only one true star and it has never failed to hail the Dawn."
 SolCetusSecondaryStory,CHARACTER,Character motivations,一只老鼠似乎溜上了船。它没有犯下明显的罪，但所有害虫终究都要回窝。无所谓，光也会驱散这道影子。,"A rat seems to have snuck aboard the ship. No apparent sin has been committed, but all vermin must return to nest eventually. No matter, the Light will vanquish this shadow, too."
 SolDracoSecondaryStory,CHARACTER,Character motivations,一个异教徒请求搭乘索尔的船。不是任务目标中的那个异教徒，但终究是异教徒。等阿斯特雷亚的圣战结束后，他的时辰是否就该到了？还是说他已经受够了惩罚？,"A heathen has requested passage on Sol's vessel. Not the heathen targeted by the mission, but a heathen no less. Should his time come once the Astrean crusade is finished? Or is he punished enough?"
 SolLeaderStory,CHARACTER,Character motivations,但这些异教徒，啊，这些异教徒。他们怎敢遮蔽天空，怎敢带来永恒的暮色？许珀里翁的神圣之光很快就会降临到他们身上。,"But these heathens, oh, these heathens. How dare they veil the sky, how dare they bring forth everlasting twilight? Hyperion's divine Light will reach them soon enough."
@@ -419,11 +419,11 @@ StoryLossHintNeutral,CHARACTER,Hint to the player on how their story was going w
 StoryLossHintPositive,CHARACTER,Hint to the player on how their story was going when they lost,整段旅程中，<CharName>的信念愈发坚定。,"Throughout the journey, <CharName>'s conviction was growing ever-strong."
 StoryLossIntro,CHARACTER,Universal start to every character's losing state,此处标记着<CharName>旅程的提前终结。,Here marks the premature end of <CharName>'s journey.
 Vega,CHARACTER,Name for a hero character,维加,Vega
-VegaAniaraSecondaryStory,CHARACTER,Character motivations,维加很恼火：要找到去阿斯特雷亚的船，唯一的办法就是跟一个显然对他的研究毫无兴趣的人分摊船费。无所谓，他想，只要能到那儿就行。,"Annoyed, the only way Vega could find a boat to Astrea was to split the fare with someone very obviously uninterested in his research project. No matter, he thinks, he just needs to get there."
+VegaAniaraSecondaryStory,CHARACTER,Character motivations,维加很恼火:要找到去阿斯特雷亚的船，唯一的办法就是跟一个显然对他的研究毫无兴趣的人分摊船费。无所谓，他想，只要能到那儿就行。,"Annoyed, the only way Vega could find a boat to Astrea was to split the fare with someone very obviously uninterested in his research project. No matter, he thinks, he just needs to get there."
 VegaAzhaSecondaryStory,CHARACTER,Character motivations,在港口，维加看到一位骑士正登上开往阿斯特拉的船。他抓住机会冲到她身边，说明自己想找到治疗星盲症的方法。骑士听了很满意，便带他上船。,"At port, Vega spotted a knight boarding a ship to Astra. Seeing his chance, he rushed to her side to explain he wants to find a cure for the Starblindness. Pleased at what she was hearing, the knight took him aboard."
 VegaBlurb,CHARACTER,Character description,维加是出身名校、受人敬重的医生，一心想以任何方式扬名立万。嗅到机会的他，把目光投向了寻找治愈这场蚕食记忆之疫的方法。,"Vega, an esteemed Doctor from a prestigious school, is determined to make a name for himself in any way he can. Sensing opportunity, he sets his sights on finding a cure for the memory-stealing affliction plaguing the land."
 VegaCetusSecondaryStory,CHARACTER,Character motivations,苦于找不到出行途径，维加不得不放下身段，与一个流氓流浪汉分摊船费。他不知道自己怎么就被说服同行了，但想着到岸之后就能甩掉这个扒手。,"Frustrated at his inability to procure a means of travel, Vega was forced below his usual standing to split the fare with a roguish vagabond. He has no idea how he was convinced to share his journey, but reckoned he could part with the cutpurse as soon as they arrived."
-VegaDracoSecondaryStory,CHARACTER,Character motivations,急着弄到船票的维加很意外：有个男人不仅愿意跟他分摊船费，还全数替他付了。维加心动了，答应与新同伴一起前往阿斯特拉。,"Desperate to get a ticket, Vega was surprised to have a man not just split the fare with him, but take it all upon himself. Smitten, Vega agreed to travel together with his new companion to Astra."
+VegaDracoSecondaryStory,CHARACTER,Character motivations,急着弄到船票的维加很意外:有个男人不仅愿意跟他分摊船费，还全数替他付了。维加心动了，答应与新同伴一起前往阿斯特拉。,"Desperate to get a ticket, Vega was surprised to have a man not just split the fare with him, but take it all upon himself. Smitten, Vega agreed to travel together with his new companion to Astra."
 VegaLeaderStory,CHARACTER,Character motivations,尽管加入了队伍，维加仍比任何人都更把自己视为「求人不如求己」这句话的化身。他会在这里赢得名声……当然，顺路也救几条命。,"Despite joining a team, more than anyone else, Vega sees himself as the embodiment of the phrase 'If you want something done, you must do it yourself'. Here he will find his fame... And save a few lives along the way, of course."
 VegaLyraSecondaryStory,CHARACTER,Character motivations,正在寻找前往阿斯特雷亚的办法时，维加偶然得到了船票，而且对方还是位贵族！她似乎很乐意带他同行，正如他所料。毕竟他是去行善的。,"Searching for the way to get to Astrea, Vega chances on his ticket, and a noble no less! She seemed happy enough to bring him along, as he expected. He was to do good, after all."
 VegaMaiaSecondaryStory,CHARACTER,Character motivations,从清晨到午后，从午后到黄昏，维加注意到港口只剩他和另一个人还没上船。维加问对方要去哪里，她答说想去阿斯特雷亚找一个人。目的地相同，两人便分摊船费同行。,"As morning turned to afternoon, and afternoon turned to dusk, Vega noticed only he and one other remained at the port, ship-less. Vega asked where this person was going, and she replied her intention to find someone in Astrea. Sharing a destination, they split the fare and travelled together."
@@ -440,7 +440,7 @@ BloodMageClass,CLASS,Name for Aniara's class,织血者,Bloodweaver
 ButterflyKnightBlurb,CLASS,Description for Azha's class,与传统的军队不同，德里瓦斯托的骑士身份不是靠头衔授予，而是靠实力挣来。阿莎退役时是名队长，恰好留着自己的盔甲，正好用在此刻。阿莎出色的力量来自严酷的训练，而她过人的魔抗则源于盔甲上的特殊衬板——或许当初装上它，正是出于对那位信奉帝国、精通魔法的邻居的忌惮。,"Unlike traditional militaries, knighthood in Drivasto is not granted by title, it is earned. Azha retired a captain and serendipitously kept her armour for just such an occasion. Azha's increased Strength comes from harsh training, but her increased Resistance is due to special plating on the armour, perhaps placed there in fear of their imperialist, and magical, neighbours."
 ButterflyKnightClass,CLASS,Name for Azha's class,冰晶骑士,Crysknight
 CetusInTeam,CLASS,Name for a set of abilities units get by having this hero in the party,刻托斯的感召,Cetus Influenced
-CrusaderBlurb,CLASS,Description for Sol's class,许珀里翁教团的圣战骑士通常没有这般狂热。索尔·伊格尼斯似乎把他的职业推到了极限：力量上过度投入，其余各项修行全都抛在了身后。盔甲一旦被撕成碎片，也就挡不住什么了。,"Crusaders of the Hyperion Order are not normally this passionate. Sol Ignis has seemingly stretched the limit of his profession, overdosing on Strength and leaving all other disciplines in the dust. Armour doesn't block much when it's torn to shreds."
+CrusaderBlurb,CLASS,Description for Sol's class,许珀里翁教团的圣战骑士通常没有这般狂热。索尔·伊格尼斯似乎把他的职业推到了极限:力量上过度投入，其余各项修行全都抛在了身后。盔甲一旦被撕成碎片，也就挡不住什么了。,"Crusaders of the Hyperion Order are not normally this passionate. Sol Ignis has seemingly stretched the limit of his profession, overdosing on Strength and leaving all other disciplines in the dust. Armour doesn't block much when it's torn to shreds."
 CrusaderClass,CLASS,Name for Sol's class,圣战骑士,Crusader
 DoctorBlurb,CLASS,Description for Vega's class,医生通常不会顶替士兵上战场，但维加觉得自己的才能对前线大有裨益。虽然灵巧与速度出众，维加却认为自己没必要抵抗魔法。勇敢与愚蠢之间那条界线，确实相当模糊。,"Normally, Doctors don't take the place of soldiers on the battlefield, but Vega feels his talents can be a great benefit to the front lines. While high in Dexterity and Speed, Vega feels he does not need to be Resistant to magic. The line separating bravery and foolishness can be a blurry one indeed."
 DoctorClass,CLASS,Name for Vega's class,医生,Doctor
@@ -464,8 +464,8 @@ MaiaDollClass,CLASS,Name for Maia's Doll's class,人偶,Doll
 MaiaInTeam,CLASS,Name for a set of abilities units get by having this hero in the party,玛雅的感召,Maia Influenced
 MercenaryBlurb,CLASS,Description for the Mercenary class,岛上的「能手」以精通轻型与投射武器闻名，专攻灵巧与速度，但对魔法有致命弱点。,"Known for being very skilled light and projectile weapon users, the Adepts of the isles train in Dexterity and Speed, but have an Achilles' heel to Magic."
 MercenaryClass,CLASS,Name for the Mercenary class,能手,Adept
-MonkBlurb,CLASS,Description for the Monk class,武僧多年修行，锤炼心身以抵抗魔法。但冥想对灵巧与防御并无助益。,Monks train for years to fortify their minds and bodies to be Resistant to magic. Meditation however does not do well for one's Dexterity or Defense.
-MonkClass,CLASS,Name for the Monk class,武僧,Monk
+MonkBlurb,CLASS,Description for the Monk class,僧侣多年修行，锤炼心身以抵抗魔法。但冥想对灵巧与防御并无助益。,Monks train for years to fortify their minds and bodies to be Resistant to magic. Meditation however does not do well for one's Dexterity or Defense.
+MonkClass,CLASS,Name for the Monk class,僧侣,Monk
 MyrmidonBlurb,CLASS,Description for the Myrmidon class,尽管防御与魔抗不足，斥候最强的仍是速度，紧随其后的则是他们……等等，你刚才听见什么了吗？,"Despite lacking in Defense and Resistance, a Scout's greatest strength is their Speed, followed closely by their ability to... say, did you hear that just now?"
 MyrmidonClass,CLASS,Name for the Myrmidon class,斥候,Scout
 PuppeteerBlurb,CLASS,Description for Maia's Class,玛雅不太喜欢战斗，所以才派她的人偶代劳。有人会说她是在阻止自己进步，但她大概会说……嗯，她什么也不会说。,"Maia isn't too fond of combat, which is why she sends her puppets to do the job for her. Some might say she is preventing herself from improving, but she would say... Well, she wouldn't say much."
@@ -629,8 +629,8 @@ Barrier_AddMaxHpEachFight_WeaponEffectDesc,EFFECT,Description for the add max HP
 Barrier_AddMaxHpEachFight_WeaponEffectName,EFFECT,Name for the add max HP each fight barrier weapon ability,坚壁,Fortify
 Barrier_AddPreventDeath_WeaponEffectDesc,EFFECT,Description for the add prevent death barrier weapon ability,消耗 <Cost> 点生命，对一名单位施加<Status>。,Spend <Cost> HP to apply <Status> to a Unit.
 Barrier_AddPreventDeath_WeaponEffectName,EFFECT,Name for the add prevent death barrier weapon ability,结界泡,Barrier Bubble
-Barrier_AdvantageVsMonk_WeaponEffectDesc,EFFECT,Description for the advantage vs monk barrier weapon ability,对武僧与冰晶骑士单位获得优势。,Gain Advantage against Monk and Crysknight Units.
-Barrier_AdvantageVsMonk_WeaponEffectName,EFFECT,Name for the advantage vs monk barrier weapon ability,武僧杀手,Monk Killer
+Barrier_AdvantageVsMonk_WeaponEffectDesc,EFFECT,Description for the advantage vs monk barrier weapon ability,对僧侣与冰晶骑士单位获得优势。,Gain Advantage against Monk and Crysknight Units.
+Barrier_AdvantageVsMonk_WeaponEffectName,EFFECT,Name for the advantage vs monk barrier weapon ability,僧侣杀手,Monk Killer
 Barrier_ChainAttack_WeaponEffectDesc,EFFECT,Description for the chain attack barrier weapon ability,若目标为敌人，则对其造成 <Damage> 点魔法伤害（威力-5）。对范围内每个尚未被攻击的单位重复此效果。,"If the target is a Foe, Attack them for <Damage> Magic DMG (POW-5). Repeat for every Unit in the Area of Effect, unless they've already been attacked."
 Barrier_ChainAttack_WeaponEffectName,EFFECT,Name for the chain attack barrier weapon ability,连锁反应,Chain Reaction
 Barrier_MaxHpToPow_WeaponEffectDesc,EFFECT,Description for the max HP to POW barrier weapon ability,计算威力时以 <Amount>（最大生命的 30%）代替魔力。,Calculate POW by adding <Amount> (30% of max HP) instead of MAG.
@@ -802,8 +802,8 @@ EffectiveAgainstMageDesc,EFFECT,Description for the buff to weapon power against
 EffectiveAgainstMageName,EFFECT,Name for the buff to weapon power against mages,法师克星,Mage's Bane
 EffectiveAgainstMercDesc,EFFECT,Description for the buff to weapon power against mercenaries,对能手单位造成武器威力 <Amount> 倍的伤害。,Deal <Amount>x weapon's power against Adept units.
 EffectiveAgainstMercName,EFFECT,Name for the buff to weapon power against mercenaries,能手克星,Adept's Bane
-EffectiveAgainstMonkDesc,EFFECT,Description for the buff to weapon power against monks,对武僧单位造成武器威力 <Amount> 倍的伤害。,Deal <Amount>x weapon's power against Monk units.
-EffectiveAgainstMonkName,EFFECT,Name for the buff to weapon power against monks,武僧克星,Monk's Bane
+EffectiveAgainstMonkDesc,EFFECT,Description for the buff to weapon power against monks,对僧侣单位造成武器威力 <Amount> 倍的伤害。,Deal <Amount>x weapon's power against Monk units.
+EffectiveAgainstMonkName,EFFECT,Name for the buff to weapon power against monks,僧侣克星,Monk's Bane
 EffectiveAgainstMyrmDesc,EFFECT,Description for the buff to weapon power against myrmidonss,对斥候单位造成武器威力 <Amount> 倍的伤害。,Deal <Amount>x weapon's power against Scout units.
 EffectiveAgainstMyrmName,EFFECT,Name for the buff to weapon power against myrmidonss,斥候克星,Scout's Bane
 EffectiveAgainstScholarDesc,EFFECT,Description for the buff to weapon power against scholars,对学者单位造成武器威力 <Amount> 倍的伤害。,Deal <Amount>x weapon's power against Scholar units.
@@ -1038,7 +1038,7 @@ LongbowAbilityDesc,EFFECT,Description for the Longbow weapon ability,获得 <Max
 LongbowAbilityName,EFFECT,Name for the Longbow weapon ability,狙击,Sniper
 LongswordAbilityDesc,EFFECT,Description for the Longsword weapon ability,在其他单位的阶段内获得 <CondPower> 点威力。,Gain <CondPower> POW during other Units' Phases.
 LongswordAbilityName,EFFECT,Name for the Longsword weapon ability,最佳防御,Best Defense
-LowMAGgrowthHighSTRgrowth_DummyEffectDesc,EFFECT,Description for the ,相比其他武僧，此单位魔力显著较低，但力量显著更高。,This Unit suffers from significantly lower MAG but gains significantly higher STR compared to other Monks.
+LowMAGgrowthHighSTRgrowth_DummyEffectDesc,EFFECT,Description for the ,相比其他僧侣，此单位魔力显著较低，但力量显著更高。,This Unit suffers from significantly lower MAG but gains significantly higher STR compared to other Monks.
 LowMAGgrowthHighSTRgrowth_DummyEffectName,EFFECT,Name for the ,钢铸术士,Steelcaster
 LowSTRgrowthHighMAGgrowth_DummyEffectDesc,EFFECT,Description for the ,相比其他战士，此单位力量显著较低，但魔力显著更高。,This Unit suffers from significantly lower STR but gain significantly higher MAG compared to other Warriors.
 LowSTRgrowthHighMAGgrowth_DummyEffectName,EFFECT,Name for the ,咒剑士,Spellblade
@@ -1217,7 +1217,7 @@ PreventDeathOnce_StatusEffectDesc,EFFECT,Description for the prevent death statu
 PreventDeathOnce_StatusEffectName,EFFECT,Name for the prevent death status effect,近乎无敌,Almost Invulnerable
 Projectile_BuffAtMinRange_EffectDesc,EFFECT,Description for the projectile skill,在此单位的最小射程处战斗时，获得 <CondPower> 点威力（最大射程的 100%）。,Gain <CondPower> POW (100% of max Range) while Fighting at this Unit's min Range.
 Projectile_BuffAtMinRange_EffectName,EFFECT,Name for the projectile skill,霰弹,Buckshot
-Projectile_ExcessHitBecomesCrit_EffectDesc,EFFECT,Description for the projectile skill,战斗中，命中超过 100 的部分将等量提升暴击（<CondCritChance> 暴击，额外暴击等于攻击命中 − 100，最低 0）。,"During Fights, any Attack's HIT over 100 will increase CRIT by the same amount (<CondCritChance> CRIT is Attack's HIT-100, min 0)."
+Projectile_ExcessHitBecomesCrit_EffectDesc,EFFECT,Description for the projectile skill,战斗中，攻击命中超过 100 的部分将等量提升暴击（<CondCritChance> 点暴击即攻击命中 − 100，最低 0）。,"During Fights, any Attack's HIT over 100 will increase CRIT by the same amount (<CondCritChance> CRIT is Attack's HIT-100, min 0)."
 Projectile_ExcessHitBecomesCrit_EffectName,EFFECT,Name for the projectile skill,满弦,Overdraw
 PullUnitDesc,EFFECT,Description for the pull unit skill,将 1 个单位朝此单位拉近 <Distance> 格。,Pull a Unit <Distance> Tile towards this Unit.
 PullUnitName,EFFECT,Name for the pull unit skill,拉近,Pull
@@ -1225,7 +1225,7 @@ PushUnitDesc,EFFECT,Description for the push unit skill,将 1 个单位推离此
 PushUnitName,EFFECT,Name for the push unit skill,推开,Push
 RageDebuffDesc,EFFECT,"Description for the debuff which builds up until it causes Berserk, unless they are calmed down",当 <ThisEffect> 达到 <MaxStacks> 层后，对此单位施加 <Status>。\n\n相邻的友方单位可对此单位使用 <CalmAction>，以移除 <CalmAmount> 层 <ThisEffect>。此单位无法对其他单位使用 <CalmAction>。,"After reaching <MaxStacks> stacks of <ThisEffect>, inflict <Status> on this Unit.\n\nAdjacent friendly Units can <CalmAction> this Unit to remove <CalmAmount> <ThisEffect>. This Unit can't <CalmAction> other Units."
 RageDebuffName,EFFECT,"Name for the debuff which builds up until it causes Berserk, unless they are calmed down",狂怒,Fury
-RandomStatBuffAtLevelUp_EffectDesc,EFFECT,Description for the skill that allows the player to choose a random stat buff instead of a skill at level-up,此单位升级时，可选择不学习技能，改为永久使 1 项随机主属性 +<Amount>：力量、魔力、防御、魔抗、速度或灵巧。,"When this Unit levels up, instead of learning a Skill, they can permanently gain <Amount> to a random primary stat: STR, MAG, DEF, RES, SPD, or DEX."
+RandomStatBuffAtLevelUp_EffectDesc,EFFECT,Description for the skill that allows the player to choose a random stat buff instead of a skill at level-up,此单位升级时，可选择不学习技能，改为永久使 1 项随机主属性 +<Amount>:力量、魔力、防御、魔抗、速度或灵巧。,"When this Unit levels up, instead of learning a Skill, they can permanently gain <Amount> to a random primary stat: STR, MAG, DEF, RES, SPD, or DEX."
 RandomStatBuffAtLevelUp_EffectName,EFFECT,Name for the skill that allows the player to choose a random stat buff instead of a skill at level-up,博识,Savant
 Ranged_AddStealthToSelf_WeaponEffectDesc,EFFECT,Description for the add stealth to self ranged weapon ability,对此单位施加 <Status>。,Apply <Status> to this Unit.
 Ranged_AddStealthToSelf_WeaponEffectName,EFFECT,Name for the add stealth to self ranged weapon ability,伪装,Camouflage
@@ -1390,37 +1390,37 @@ StrBuffName,EFFECT,Name for the strength buff,振奋,Invigorated
 StrDebuffDesc,EFFECT,Description for the strength debuff,力量降低 <Strength> 点（每层 <StrengthPerStack>），持续至遭遇战结束。,Suffer <Strength> STR (<StrengthPerStack> per stack) until the End of an Encounter.
 StrDebuffName,EFFECT,Name for the strength debuff,衰竭,Drained
 Subclass_Adept_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Adept_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：能手,Subclass: Adept
+Subclass_Adept_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:能手,Subclass: Adept
 Subclass_Aniara_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Aniara_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：血织者,Subclass: Bloodweaver
+Subclass_Aniara_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:血织者,Subclass: Bloodweaver
 Subclass_Azha_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Azha_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：晶泣骑士,Subclass: Crysknight
+Subclass_Azha_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:晶泣骑士,Subclass: Crysknight
 Subclass_Cetus_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Cetus_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：“收藏家”,Subclass: ''Collector''
+Subclass_Cetus_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:“收藏家”,Subclass: ''Collector''
 Subclass_Draco_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Draco_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：赌徒,Subclass: Gambler
+Subclass_Draco_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:赌徒,Subclass: Gambler
 Subclass_Druid_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Druid_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：德鲁伊,Subclass: Druid
+Subclass_Druid_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:德鲁伊,Subclass: Druid
 Subclass_Knight_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Knight_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：骑士,Subclass: Knight
+Subclass_Knight_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:骑士,Subclass: Knight
 Subclass_Lyra_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Lyra_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：战法师,Subclass: Battlemage
+Subclass_Lyra_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:战法师,Subclass: Battlemage
 Subclass_Mage_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Mage_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：法师,Subclass: Mage
+Subclass_Mage_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:法师,Subclass: Mage
 Subclass_Maia_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Maia_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：傀儡师,Subclass: Puppeteer
+Subclass_Maia_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:傀儡师,Subclass: Puppeteer
 Subclass_Monk_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Monk_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：武僧,Subclass: Monk
+Subclass_Monk_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:僧侣,Subclass: Monk
 Subclass_Scholar_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Scholar_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：学者,Subclass: Scholar
+Subclass_Scholar_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:学者,Subclass: Scholar
 Subclass_Scout_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Scout_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：斥候,Subclass: Scout
+Subclass_Scout_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:斥候,Subclass: Scout
 Subclass_Sol_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Sol_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：十字军,Subclass: Crusader
+Subclass_Sol_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:十字军,Subclass: Crusader
 Subclass_Vega_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Vega_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：医师,Subclass: Doctor
+Subclass_Vega_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:医师,Subclass: Doctor
 Subclass_Warrior_EffectDesc,EFFECT,Description for the effect which changes the class of the user,将 <Class> 添加为副职业，应用其属性变化并解锁其技能组。,Add <Class> as a Subclass by applying its stat changes and unlocking its Skill Set.
-Subclass_Warrior_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业：战士,Subclass: Warrior
+Subclass_Warrior_EffectName,EFFECT,Name for the effect which changes the class of the user,副职业:战士,Subclass: Warrior
 SummonDoll_WeaponEffectDesc,EFFECT,Description for the ,召唤 1 具傀儡并对其施加 <Status>（1 + 灵巧的 30%）。\n傀儡获得此单位所有技能的（傀儡）版本，以及其副职业。（复制所得的临时技能无法施放。）,"Summon a Doll and apply <Status> (1 + 30% of DEX) to it.\nThe Dolls gains the (Doll) versions of all this Unit's skills, as well as its Subclass. (Copied Ephemeral skills cannot be cast.)"
 SummonDoll_WeaponEffectName,EFFECT,Name for the ,召唤傀儡,Summon Doll
 SummonedPopUpText,EFFECT,Pop-up text for summoning a unit,已召唤！,Summoned!
@@ -1434,7 +1434,7 @@ SupportBonus_LoneWolf_EffectDesc,EFFECT,Description for the support skill,在 3 
 SupportBonus_LoneWolf_EffectName,EFFECT,Name for the support skill,孤狼,Lone Wolf
 SupportBonus_Mage_EffectDesc,EFFECT,Description for the support skill,在友方法师或血织者 3 格以内时，获得 <CondMagic> 点魔力。,Gain <CondMagic> MAG while within 3 Tiles of an Allied Mage or Bloodweaver.
 SupportBonus_Mage_EffectName,EFFECT,Name for the support skill,灵脉,Ley Line
-SupportBonus_Monk_EffectDesc,EFFECT,Description for the support skill,在友方武僧或晶泣骑士 3 格以内时，获得 <CondResistance> 点魔抗。,Gain <CondResistance> RES while within 3 Tiles of an Allied Monk or Crysknight.
+SupportBonus_Monk_EffectDesc,EFFECT,Description for the support skill,在友方僧侣或晶泣骑士 3 格以内时，获得 <CondResistance> 点魔抗。,Gain <CondResistance> RES while within 3 Tiles of an Allied Monk or Crysknight.
 SupportBonus_Monk_EffectName,EFFECT,Name for the support skill,开悟之友,Enlightened Friends
 SupportBonus_Scholar_EffectDesc,EFFECT,Description for the support skill,在友方学者或傀儡师 3 格以内时，额外获得 <CondExtraExpGain>% 经验。,Gain an extra <CondExtraExpGain>% Experience while within 3 Tiles of an Allied Scholar or Puppeteer.
 SupportBonus_Scholar_EffectName,EFFECT,Name for the support skill,同窗共研,Studied Company
@@ -1632,7 +1632,7 @@ ItemEventResult,EVENT,Event result for getting or losing an item e.g. +3 Item or
 LeftPath,EVENT,Direction of a path at a crossroads,左侧,to the left
 LootEventResult,EVENT,Event result for getting a random item,+未知物品,+Unknown Item
 LootEventResults,EVENT,List of loot you recieved from a loot event,你获得了 <Loot>。,You received <Loot>.
-MAGTreeStatCheck,EVENT,Event choice,（魔力检定：<Level>）让箱子浮下来？,(MAG Check: <Level>) Float the box down?
+MAGTreeStatCheck,EVENT,Event choice,（魔力检定:<Level>）让箱子浮下来？,(MAG Check: <Level>) Float the box down?
 MiddlePath,EVENT,Direction of a path at a crossroads,中间,in the middle
 MindChanged,EVENT,If the player made a choice that changed a character's mind,<Unit>的信念动摇了…,<Unit>'s conviction wavers...
 MindStrengthened,EVENT,If the player made a choice that conforms to a character's beliefs,<Unit>的意志更加坚定,<Unit>'s resolve deepens
@@ -1682,22 +1682,22 @@ SolUnrestrictedHolySymbolName,ITEM,Name for an unrestricted version of Sol's uni
 SPDIncreaseConsumableName,ITEM,Name for an item which raises SPD exp,速度药剂,Speed Elixir
 StrengthPotionName,ITEM,Name for a potion that buffs STR for units in an area,士兵药水,Soldier's Potion
 STRIncreaseConsumableName,ITEM,Name for an item which raises STR exp,力量药剂,Strength Elixir
-Subclass_Adept_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：能手,Subclass: Adept
-Subclass_Aniara_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：血织者,Subclass: Bloodweaver
-Subclass_Azha_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：晶泣骑士,Subclass: Crysknight
-Subclass_Cetus_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：“收藏家”,Subclass: ''Collector''
-Subclass_Draco_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：赌徒,Subclass: Gambler
-Subclass_Druid_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：德鲁伊,Subclass: Druid
-Subclass_Knight_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：骑士,Subclass: Knight
-Subclass_Lyra_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：战法师,Subclass: Battlemage
-Subclass_Mage_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：法师,Subclass: Mage
-Subclass_Maia_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：傀儡师,Subclass: Puppeteer
-Subclass_Monk_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：武僧,Subclass: Monk
-Subclass_Scholar_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：学者,Subclass: Scholar
-Subclass_Scout_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：斥候,Subclass: Scout
-Subclass_Sol_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：十字军,Subclass: Crusader
-Subclass_Vega_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：医师,Subclass: Doctor
-Subclass_Warrior_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业：战士,Subclass: Warrior
+Subclass_Adept_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:能手,Subclass: Adept
+Subclass_Aniara_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:血织者,Subclass: Bloodweaver
+Subclass_Azha_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:晶泣骑士,Subclass: Crysknight
+Subclass_Cetus_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:“收藏家”,Subclass: ''Collector''
+Subclass_Draco_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:赌徒,Subclass: Gambler
+Subclass_Druid_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:德鲁伊,Subclass: Druid
+Subclass_Knight_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:骑士,Subclass: Knight
+Subclass_Lyra_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:战法师,Subclass: Battlemage
+Subclass_Mage_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:法师,Subclass: Mage
+Subclass_Maia_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:傀儡师,Subclass: Puppeteer
+Subclass_Monk_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:僧侣,Subclass: Monk
+Subclass_Scholar_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:学者,Subclass: Scholar
+Subclass_Scout_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:斥候,Subclass: Scout
+Subclass_Sol_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:十字军,Subclass: Crusader
+Subclass_Vega_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:医师,Subclass: Doctor
+Subclass_Warrior_ConsumableName,ITEM,Name for an item which changes the class of the user,副职业:战士,Subclass: Warrior
 SwapDefRes_ConsumableName,ITEM,Name for an item which swaps a unit's DEF and RES stats,逆转药剂,Inversion Elixir
 SwapDexDef_ConsumableName,ITEM,Name for an item which swaps a unit's DEX and DEF stats,逆转药剂,Inversion Elixir
 SwapDexRes_ConsumableName,ITEM,Name for an item which swaps a unit's DEX and RES stats,逆转药剂,Inversion Elixir
@@ -1717,129 +1717,129 @@ TeleportPotionName,ITEM,Name for a potion that restores health to the user,传�
 TinyCashItemName,ITEM,Name for Name for a item that is a tiny amount of money,金币,Gold Piece
 UnlearnableManual_ConsumableName,ITEM,Name for an item which teaches the any random weapon style,秘传手册,Esoteric Manual
 WeaponSkillBookName,ITEM,Name for a consumable item which teaches a new weapon skill,武器技能书,Weapon Skill Book
-Actionable,KEYWORD,Statement claiming a unit has not taken a turn and is able to do things,可行动：此单位尚未行动。,Available: This Unit has yet to take their turn.
+Actionable,KEYWORD,Statement claiming a unit has not taken a turn and is able to do things,可行动:此单位尚未行动。,Available: This Unit has yet to take their turn.
 ActionableHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,可行动,Available
-ADV,KEYWORD,Abbreviated label for advantage,优势,ADV
-Advantage,KEYWORD,Explanation for weapons that counter others,优势使威力 +1、命中 +10。,Advantage increases POW by 1 and HIT by 10.
+ADV,KEYWORD,Abbreviated label for advantage,ADV,ADV
+Advantage,KEYWORD,Explanation for weapons that counter others,优势使POW+1、HIT+10。,Advantage increases POW by 1 and HIT by 10.
 AdvantageHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,优势,Advantage
-AllyPhase,KEYWORD,Telling the player it's their turn to go.,轮到你了！别偷懒，快去给队伍下达指令。,It's your turn! Quick slacking and go give your team orders.
-ATS,KEYWORD,Description for a unit's attack speed by combining their total SPD stat and current weapon,攻速：若单位的攻速比对手高 4 点，则获得 1 次额外攻击。,Attack Speed: The Unit will gain a Bonus Attack if their Attack Speed is 4 higher than their opponent's.
+AllyPhase,KEYWORD,Telling the player it's their turn to go.,轮到你了！快点放松一下，然后给你的团队下达指令吧。,It's your turn! Quick slacking and go give your team orders.
+ATS,KEYWORD,Description for a unit's attack speed by combining their total SPD stat and current weapon,攻速:如果单位的攻速比对手高4点，会获得1次额外攻击。,Attack Speed: The Unit will gain a Bonus Attack if their Attack Speed is 4 higher than their opponent's.
 ATSHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,攻速,Attack Speed
-AVO,KEYWORD,Description for a unit's current ability to avoid attack,闪避：使攻击有几率未命中该单位。,Avoid: Grants ability to have Attacks miss the Unit.
+AVO,KEYWORD,Description for a unit's current ability to avoid attack,闪避:使攻击有几率无法命中该单位。,Avoid: Grants ability to have Attacks miss the Unit.
 AVOHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,闪避,Avoid
-AvoidBonus,KEYWORD,Description that explains AVO/Avoid determines the likelihood of a unit dodging another's attacks,闪避：提高躲开攻击的几率。,Avoid: Increased chance to dodge attacks.
-BadFog,KEYWORD,The punishment for reaching the round limit. ,星尘：笼罩区域的宇宙之雾。每轮造成最大生命 10% 的伤害，并阻止一切经验获取。该收尾了！,Stardust: Cosmic fog that blankets the area. Deals 10% of Max HP as Damage every Round and prevents all Experience gain. Time to wrap things up!
+AvoidBonus,KEYWORD,Description that explains AVO/Avoid determines the likelihood of a unit dodging another's attacks,闪避:提高躲开攻击的概率。,Avoid: Increased chance to dodge attacks.
+BadFog,KEYWORD,The punishment for reaching the round limit. ,星尘:笼罩区域的宇宙之雾。每回合造成最大生命10%的伤害，并阻止一切经验获取。该收尾了！,Stardust: Cosmic fog that blankets the area. Deals 10% of Max HP as Damage every Round and prevents all Experience gain. Time to wrap things up!
 BadFogHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,星尘,Stardust
-BarrierMagic,KEYWORD,Description for Barrier Magic Type,护壁魔法：以环绕之幕显化的元素之力。\n\n对使魔魔法有优势，对法器魔法有劣势。,Barrier Magic: The force of the elements manifested through an encompassing veil.\n\nHas Advantage over Familiar Magic but Disadvantage against Focus Magic.
+BarrierMagic,KEYWORD,Description for Barrier Magic Type,护壁魔法:以环绕之幕显化的元素之力。\n\n对使魔魔法有优势，对法器魔法有劣势。,Barrier Magic: The force of the elements manifested through an encompassing veil.\n\nHas Advantage over Familiar Magic but Disadvantage against Focus Magic.
 BossHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,队长,Leader
-Burrow,KEYWORD,Description for the burrowing movement mode,掘地：一种移动模式，可降低岩石与山地格子的移动消耗。,Burrowing: A movement mode which reduces movement costs for rocky and mountainous Tiles.
+Burrow,KEYWORD,Description for the burrowing movement mode,掘地:一种移动模式，可降低岩石与山地格子的移动消耗。,Burrowing: A movement mode which reduces movement costs for rocky and mountainous Tiles.
 BurrowHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,掘地,Burrow
-Chapter,KEYWORD,Description for the player's current place in the game,章节：商队经历过的遭遇战数量。,Chapter: Number of Encounters the caravan has seen.
+Chapter,KEYWORD,Description for the player's current place in the game,章节:商队经历过的遭遇战数量。,Chapter: Number of Encounters the caravan has seen.
 ChapterHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,章节,Chapter
 ConvoyButton,KEYWORD,Button label,进入商队,Access the Caravan
-CRIT,KEYWORD,Description for a unit's ability to land a critical hit,暴击率：使用当前武器造成暴击的能力。暴击将造成 +50% 伤害。,Crit Rate: Ability to land a Critical Hit with current weapon. A Critical Hit will deal +50% DMG.
-CritChance,KEYWORD,Description for a unit's ability to land a critical hit,暴击,CRIT
+CRIT,KEYWORD,Description for a unit's ability to land a critical hit,暴击率:使用当前武器暴击的概率。暴击将造成+50% DMG。,Crit Rate: Ability to land a Critical Hit with current weapon. A Critical Hit will deal +50% DMG.
+CritChance,KEYWORD,Description for a unit's ability to land a critical hit,CRIT,CRIT
 CRITHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,暴击率,Crit Rate
 DangerZoneButton,KEYWORD,Button label,切换危险区域,Toggle Danger Zone
-DEF,KEYWORD,Description that explains DEF determines how much of an attacker's physical attack damage is negated,防御：减少物理攻击造成的伤害。,Defense: Reduces damage from Physical Attacks.
+DEF,KEYWORD,Description that explains DEF determines how much of an attacker's physical attack damage is negated,防御:减少物理攻击造成的伤害。,Defense: Reduces damage from Physical Attacks.
 DEFHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,防御,Defense
-DEX,KEYWORD,Description that explains DEX determines the likelihood the unit will hit an attack or dodge an enemy's,灵巧：影响单位命中攻击的几率，也是激活武器技能所需。,Dexterity: Affects the likelihood a Unit will land an attack and is required to activate weapon Skills.
+DEX,KEYWORD,Description that explains DEX determines the likelihood the unit will hit an attack or dodge an enemy's,灵巧:影响单位攻击命中的几率，也是激活武器技能所需。,Dexterity: Affects the likelihood a Unit will land an attack and is required to activate weapon Skills.
 DEXHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,灵巧,Dexterity
-Disadvantage,KEYWORD,Explanation for weapons that get countered by others,劣势使威力 -1、命中 -10。,Disadvantage decreases POW by 1 and HIT by 10.
+Disadvantage,KEYWORD,Explanation for weapons that get countered by others,劣势使POW-1、HIT-10。,Disadvantage decreases POW by 1 and HIT by 10.
 DisadvantageHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,劣势,Disadvantage
-DMG,KEYWORD,Description for the total amount of damage an attack will do,伤害：该单位将承受的伤害总量。,Damage: Total amount of Damage the Unit will take.
+DMG,KEYWORD,Description for the total amount of damage an attack will do,伤害:该单位将承受的伤害总量。,Damage: Total amount of Damage the Unit will take.
 DMGHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,伤害,Damage
-Downed,KEYWORD,"Description for the ""downed"" unit state",倒下：玩家单位生命降至 0 时即倒下。若在遭遇战结束前未被复活，该单位将永久失去。,"Downed: A Player Unit is Downed when their HP reaches 0. If the Encounter ends before they are Revived, they are permanently lost. "
-DownedHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,倒下,Downed
+Downed,KEYWORD,"Description for the ""downed"" unit state",倒地:玩家单位生命降至0时即倒地。如果在遭遇战结束前未被复活，该单位将永久失去。,"Downed: A Player Unit is Downed when their HP reaches 0. If the Encounter ends before they are Revived, they are permanently lost. "
+DownedHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,倒地,Downed
 Effective,KEYWORD,Explanation that an effective weapon ,克星类武器对特定职业具有克制效果。,Bane weapons are Effective against specific Classes. 
 EffectiveHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,克星,Bane
 EnemyPhase,KEYWORD,Telling the player they must wait for the enemy to finish their turn.,当前为敌方队伍阶段，请等待其结束。,"It is currently the Enemy Team's phase, wait for it to finish."
-ExtraExpGain,KEYWORD,Name for extra experience gain,经验,Exp
-FamiliarMagic,KEYWORD,Description for Familiar Magic Type,使魔魔法：以友善宠物为媒介号令的天界意志。\n\n对法器魔法有优势，对护壁魔法有劣势。,Familiar Magic: Celestial will commanded out of a friendly pet.\n\nHas Advantage over Focus Magic but Disadvantage against Barrier Magic.
-Fight,KEYWORD,Description that explains fighting against another unit who may counterattack,战斗：两个单位相互轮番攻击。,Fight: Two Units attack each other back and forth.
+ExtraExpGain,KEYWORD,Name for extra experience gain,Exp,Exp
+FamiliarMagic,KEYWORD,Description for Familiar Magic Type,使魔魔法:以友善宠物为媒介号令的天界意志。\n\n对法器魔法有优势，对护壁魔法有劣势。,Familiar Magic: Celestial will commanded out of a friendly pet.\n\nHas Advantage over Focus Magic but Disadvantage against Barrier Magic.
+Fight,KEYWORD,Description that explains fighting against another unit who may counterattack,战斗:两个单位相互攻击。,Fight: Two Units attack each other back and forth.
 FightButton,KEYWORD,Button label,开始遭遇战,Start Encounter
 FightHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,战斗,Fight
-Fly,KEYWORD,Description for the flying movement mode,飞行：一种移动模式，对大多数格子无视移动消耗与地形效果。,Flying: A movement mode which ignores movement costs and terrain effects for most Tiles.
+Fly,KEYWORD,Description for the flying movement mode,飞行:一种移动模式，对大多数格子无视移动消耗与地形效果。,Flying: A movement mode which ignores movement costs and terrain effects for most Tiles.
 FlyHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,飞行,Fly
-FocusMagic,KEYWORD,Description for Focus Magic Type,法器魔法：通过调谐物品之镜引导出的魔法之力。\n\n对护壁魔法有优势，对使魔魔法有劣势。,Focus Magic: Magic power exacted through the lens of an attuned item.\n\nHas Advantage over Barrier Magic but Disadvantage against Familiar Magic.
-FullWall,KEYWORD,Full Wall description,不可通行：地面单位与飞行单位均无法穿过此墙。,Impassable: Neither Grounded nor Flying Units can pass through this wall.
+FocusMagic,KEYWORD,Description for Focus Magic Type,法器魔法:通过调谐物品之镜引导出的魔法之力。\n\n对护壁魔法有优势，对使魔魔法有劣势。,Focus Magic: Magic power exacted through the lens of an attuned item.\n\nHas Advantage over Barrier Magic but Disadvantage against Familiar Magic.
+FullWall,KEYWORD,Full Wall description,不可通行:地面单位与飞行单位均无法通过此墙。,Impassable: Neither Grounded nor Flying Units can pass through this wall.
 FullWallHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,不可通行,Impassable
-HalfWall,KEYWORD,Half Wall description,受阻：地面单位无法走过此墙，但飞行单位可以飞越。,"Obstructed: Grounded Units can't walk through this wall, but Flying Units can fly over it."
+HalfWall,KEYWORD,Half Wall description,受阻:地面单位无法通过此墙，但飞行单位可以飞越。,"Obstructed: Grounded Units can't walk through this wall, but Flying Units can fly over it."
 HalfWallHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,受阻,Obstructed
-HasAdvantage,KEYWORD,Middle of the sentence explaining weapon advantage. E.g. Light Weapon has Advantage over Heavy Weapon,克制,has Advantage over
-HeavyWeapon,KEYWORD,Description for Heavy Weapon Type,重武：需双手持用的大型武器。\n\n对盾类武器有优势，对轻武有劣势。,Heavy Weapons: Large weapons requiring both hands to wield.\n\nHas Advantage over Shield Weapons but Disadvantage against Light Weapons.
-HIT,KEYWORD,Description for a unit's accuracy rate,命中率：单位使用当前武器的命中精度。,Hit Rate: Unit's accuracy with current weapon.
+HasAdvantage,KEYWORD,Middle of the sentence explaining weapon advantage. E.g. Light Weapon has Advantage over Heavy Weapon,具有优势,has Advantage over
+HeavyWeapon,KEYWORD,Description for Heavy Weapon Type,重武:需双手持用的大型武器。\n\n对盾类武器有优势，对轻武有劣势。,Heavy Weapons: Large weapons requiring both hands to wield.\n\nHas Advantage over Shield Weapons but Disadvantage against Light Weapons.
+HIT,KEYWORD,Description for a unit's accuracy rate,命中率:单位使用当前武器的命中精度。,Hit Rate: Unit's accuracy with current weapon.
 HITHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,命中率,Hit Rate
-HP,KEYWORD,Description that explains HP is the maximum health of a unit,生命值：单位的最大生命点数。,Health Points: Maximum number of Unit's life points.
+HP,KEYWORD,Description that explains HP is the maximum health of a unit,生命值:单位的最大生命点数。,Health Points: Maximum number of Unit's life points.
 HPHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,生命值,Health Points
-Inverted,KEYWORD,Description for the flying movement mode,反向移动：一种移动模式，可正常通过困难地形，但在普通地形上移动较慢。,"Inverted Movement: A movement mode which allows normal movement through difficult Terrain, but slower movement through normal Terrain."
-InvertedHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,反向,Inverted
+Inverted,KEYWORD,Description for the flying movement mode,颠倒移动:一种移动模式，正常通过困难地形，但在普通地形上移动较慢。,"Inverted Movement: A movement mode which allows normal movement through difficult Terrain, but slower movement through normal Terrain."
+InvertedHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,颠倒,Inverted
 Leader,KEYWORD,Description for the leader unit type,<CharName>是<TeamName>队伍的队长。每场遭遇战都必须部署，其死亡时游戏结束。,<CharName> is the Leader of the Team <TeamName>. They must be deployed on every encounter and the game will end when they die.
-Level,KEYWORD,Description for a unit's current level and what levelling up does,单位等级：单位在若干次属性提升后提升 1 级，此时其最大生命提高并获得 1 个技能。,"Unit Level: The Unit gains a level after a number of stat level-ups, in which their maximum HP increases and they gain a skill."
-LightWeapon,KEYWORD,Description for Light Weapon Type,轻武：以易用与迅捷见长的小型副手武器。\n\n对重武有优势，对盾类武器有劣势。,Light Weapons: Small sidearms valued for their ease of use and speed.\n\nHas Advantage over Heavy Weapons but Disadvantage against Shield Weapons.
-Lootable,KEYWORD,Explanation for lootable items,*战利品：单位死亡时掉落此物品。,*Loot: Unit drops this item on Death.
+Level,KEYWORD,Description for a unit's current level and what levelling up does,单位等级:单位在若干次属性提升后提升 1 级，此时其最大HP提高并获得 1 个技能。,"Unit Level: The Unit gains a level after a number of stat level-ups, in which their maximum HP increases and they gain a skill."
+LightWeapon,KEYWORD,Description for Light Weapon Type,轻武:以易用与迅捷见长的小型副手武器。\n\n对重武有优势，对盾类武器有劣势。,Light Weapons: Small sidearms valued for their ease of use and speed.\n\nHas Advantage over Heavy Weapons but Disadvantage against Shield Weapons.
+Lootable,KEYWORD,Explanation for lootable items,*战利品:单位死亡时掉落此物品。,*Loot: Unit drops this item on Death.
 LootableHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,可掉落,Lootable
-MAG,KEYWORD,Description that explains MAG determines the base strength of magical attacks,魔力：单位使用魔法类武器攻击时的基础攻击力。,Magic: Base attack power for the Unit's attacks using magic-based weapons. 
+MAG,KEYWORD,Description that explains MAG determines the base strength of magical attacks,魔力:单位使用魔法类武器攻击时的基础攻击力。,Magic: Base attack power for the Unit's attacks using magic-based weapons. 
 MAGHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,魔力,Magic
-Money,KEYWORD,Description for the player's total amount of money,金钱：商队旅途中积攒的金币总量。,Money: Total amount of gold amassed in the caravan's travels.
+Money,KEYWORD,Description for the player's total amount of money,金钱:商队旅途中积攒的金币总量。,Money: Total amount of gold amassed in the caravan's travels.
 MoneyHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,金钱,Money
-MOV,KEYWORD,Description that explains MOV is how many squares on the grid the unit can move in a turn by default,移动力：单位在其回合内可移动的格数。,Movement Speed: How many tiles the Unit can move on their Turn.
+MOV,KEYWORD,Description that explains MOV is how many squares on the grid the unit can move in a turn by default,移动力:单位在其回合内可移动的格数。,Movement Speed: How many tiles the Unit can move on their Turn.
 MovementCostHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,移动消耗,Move Cost
 MOVHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,移动力,Movement Speed
-NextUnitButton,KEYWORD,Button label,下一个可行动单位,Next Available Unit
-Nonactionable,KEYWORD,Statement claiming a unit has taken their turn and is done for the rest of the player phase,不可行动：此单位已行动，无法再移动。,Unavailable: This Unit has taken their Turn and can't make any more moves.
+NextUnitButton,KEYWORD,Button label,下一个可用单位,Next Available Unit
+Nonactionable,KEYWORD,Statement claiming a unit has taken their turn and is done for the rest of the player phase,不可行动:此单位已行动，无法再移动。,Unavailable: This Unit has taken their Turn and can't make any more moves.
 ObjectiveTerrainHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,目标地点,Objective Location
 Once,KEYWORD,Skills that are removed from the unit when cast,临时,Ephemeral
-OtherPhase,KEYWORD,Telling the player they must wait for the other units to finish their turn.,当前为中立单位的阶段，请等待其结束。,"It is currently the Unaligned Units' phase, wait for it to finish."
+OtherPhase,KEYWORD,Telling the player they must wait for the other units to finish their turn.,中立单位正在行动，请等待其结束。,"It is currently the Unaligned Units' phase, wait for it to finish."
 OverworldButton,KEYWORD,Button label,查看世界地图,See World Map
-Phase,KEYWORD,Description for the time when a team is capable of controlling their units,阶段：一整支队伍所有单位回合的集合。当所有单位行动完毕时自动结束，也可通过“结束阶段”按钮手动结束。,Phase: The collection of an entire team's Unit's Turns. Ends automatically once all Units are done their turn or when ended manually though the 'End Phase' button.
-PhaseHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,阶段,Phase
-POW,KEYWORD,Description for a unit's current total damage,威力：使用当前武器进行普通攻击的伤害。,Power: Damage of a regular attack with current weapon.
+Phase,KEYWORD,Description for the time when a team is capable of controlling their units,行动阶段:一整支队伍所有单位回合的集合。当所有单位行动完毕时自动结束，也可通过“结束行动阶段”按钮手动结束。,Phase: The collection of an entire team's Unit's Turns. Ends automatically once all Units are done their turn or when ended manually though the 'End Phase' button.
+PhaseHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,行动阶段,Phase
+POW,KEYWORD,Description for a unit's current total damage,威力:使用当前武器进行普通攻击的伤害。,Power: Damage of a regular attack with current weapon.
 POWHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,威力,Power
-PrepPhase,KEYWORD,Telling the player they must complete the preparation phase.,该为你的单位装备并部署了，为即将到来的遭遇战做好准备。,"It's time to Equip and Deploy your Units, be ready for the coming Encounter."
+PrepPhase,KEYWORD,Telling the player they must complete the preparation phase.,是时候装备并部署你的单位了，准备好迎接即将到来的遭遇战。,"It's time to Equip and Deploy your Units, be ready for the coming Encounter."
 Profound,KEYWORD,Label for a skill that can be learned more than once,淬炼,Honed
 Quick,KEYWORD,Actions that don't end a unit's turn,快捷,Quick
 QuickCast,KEYWORD,Tag for a skill that does not end the turn when used,快捷,Quick
-RangedWeapon,KEYWORD,Description for Projectile Weapon Type,投掷武器：可击中数格之外单位的远程发射器。\n\n对飞行单位有优势。,Projectile Weapons: Long-ranged projectile launchers capable of hitting Units multiple tiles away.\n\nHas Advantage over Flying Units.
-RES,KEYWORD,Description that explains RES determines how much of an attacker's magical damage is negated,魔抗：减少魔法攻击造成的伤害。,Resistance: Reduces damage from magical attacks. 
+RangedWeapon,KEYWORD,Description for Projectile Weapon Type,投射武器:可击中数格之外单位的远程发射器。\n\n对飞行单位有优势。,Projectile Weapons: Long-ranged projectile launchers capable of hitting Units multiple tiles away.\n\nHas Advantage over Flying Units.
+RES,KEYWORD,Description that explains RES determines how much of an attacker's magical damage is negated,魔抗:减少魔法攻击造成的伤害。,Resistance: Reduces damage from magical attacks. 
 RESHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,魔抗,Resistance
-RitualMagic,KEYWORD,Description for Ritual Magic Type,仪式魔法：自未知之力中召来的魔法之力。\n\n对骑乘单位有优势。,Ritual Magic: Magic force called from powers unknown.\n\nHas Advantage over Mounted Units.
-RNG,KEYWORD,Description for a unit's current range of attack,射程：单位使用当前武器可攻击的距离。,Range: Range the Unit can attack from with their current weapon.
+RitualMagic,KEYWORD,Description for Ritual Magic Type,仪式魔法:自未知之力中召来的魔法之力。\n\n对骑乘单位有优势。,Ritual Magic: Magic force called from powers unknown.\n\nHas Advantage over Mounted Units.
+RNG,KEYWORD,Description for a unit's current range of attack,射程:单位使用当前武器可攻击的距离。,Range: Range the Unit can attack from with their current weapon.
 RNGHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,射程,Range
-Round,KEYWORD,Description for a period of time when every team gets to have a phase,轮：包含各队伍阶段的时间单位。每支队伍每轮有 1 个阶段。,Round: The period of time that contains each team's phase. Every team has one Phase per Round.
-RoundHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,轮,Round
-RoundLimit,KEYWORD,Explaining to the player that the current map has a limit to how many rounds they can take.,时间限制：超过此限制后，星尘将开始积聚。,"Time Limit: When you exceed this limit, the Stardust starts to build."
+Round,KEYWORD,Description for a period of time when every team gets to have a phase,轮次:包含各队伍阶段的时间单位。每支队伍每轮次有1个行动阶段。,Round: The period of time that contains each team's phase. Every team has one Phase per Round.
+RoundHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,轮次,Round
+RoundLimit,KEYWORD,Explaining to the player that the current map has a limit to how many rounds they can take.,时间限制:超过此限制后，星尘将开始积聚。,"Time Limit: When you exceed this limit, the Stardust starts to build."
 RoundLimitHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,时间限制,Time Limit
 SettingsButton,KEYWORD,Button label,系统设置,System Settings
-ShieldWeapon,KEYWORD,Description for Shield Weapon Type,盾类武器：单手武器，副手配盾。\n\n对轻武有优势，对重武有劣势。,Shield Weapons: One-handed weapons accompanied by a shield in the off-hand.\n\nHas Advantage over Light Weapons but Disadvantage against Heavy Weapons.
-SingleAttack,KEYWORD,"Description that explains making a single attack against a unit, without any counterattacks",攻击：1 个单位对另 1 个单位攻击 1 次。,Attack: One Unit attacks another Unit once.
-SkipPhaseButton,KEYWORD,Button label,结束玩家阶段,End Player Phase
+ShieldWeapon,KEYWORD,Description for Shield Weapon Type,盾类武器:单手武器，副手配盾。\n\n对轻武有优势，对重武有劣势。,Shield Weapons: One-handed weapons accompanied by a shield in the off-hand.\n\nHas Advantage over Light Weapons but Disadvantage against Heavy Weapons.
+SingleAttack,KEYWORD,"Description that explains making a single attack against a unit, without any counterattacks",攻击:1个单位对另1个单位攻击1次。,Attack: One Unit attacks another Unit once.
+SkipPhaseButton,KEYWORD,Button label,结束玩家行动阶段,End Player Phase
 Slotless,KEYWORD,"Label for a skill that does not take up a skill slot; one that is usually pretty simple. E.g. ""Simple Common Skill""",简易,Simple
 Slow,KEYWORD,"Description that explains the ""Slow"" rule",迟缓,Slow
-SPD,KEYWORD,Description that explains SPD determines how many times in a row that a unit can attack in combat,速度：影响单位在战斗中连续攻击的能力以及躲开攻击的能力。,Speed: Affects the Unit's ability to attack twice in a fight and how well they can avoid attacks.
+SPD,KEYWORD,Description that explains SPD determines how many times in a row that a unit can attack in combat,速度:影响单位在战斗中连续攻击的能力以及躲开攻击的能力。,Speed: Affects the Unit's ability to attack twice in a fight and how well they can avoid attacks.
 SPDHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,速度,Speed
-STR,KEYWORD,Description that explains STR determines the base strength of a physical attack,力量：单位使用物理类武器攻击时的基础攻击力。,Strength: Base attack power for the Unit's attacks using physical-based weapons.
+STR,KEYWORD,Description that explains STR determines the base strength of a physical attack,力量:单位使用物理类武器攻击时的基础攻击力。,Strength: Base attack power for the Unit's attacks using physical-based weapons.
 STRHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,力量,Strength
-Subclass,KEYWORD,Description for unit subclasses,副职业：副职业为单位提供额外属性与成长，并解锁对应职业的技能组与可学武器类型。该单位同时被视为其主职业与副职业。每个单位只能拥有 1 个副职业。,"Subclass: A Subclass grants its Unit bonus stats and growths. It also grants access to the associated Class's Skillset, and learnable Weapon Styles. The Unit is treated as both their Class and their Subclass. Each Unit can only have one Subclass."
+Subclass,KEYWORD,Description for unit subclasses,副职业:副职业为单位提供额外属性与成长，并解锁对应职业的技能组与可学武器类型。该单位同时被视为其主职业与副职业。每个单位只能拥有1个副职业。,"Subclass: A Subclass grants its Unit bonus stats and growths. It also grants access to the associated Class's Skillset, and learnable Weapon Styles. The Unit is treated as both their Class and their Subclass. Each Unit can only have one Subclass."
 SubclassHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,副职业,Subclass
-Swim,KEYWORD,Description for the swimming movement mode,游泳：一种移动模式，可降低液体格子的移动消耗。,Swimming: A movement mode which reduces movement costs for liquid Tiles.
+Swim,KEYWORD,Description for the swimming movement mode,游泳:一种移动模式，降低液体格子移动的消耗。,Swimming: A movement mode which reduces movement costs for liquid Tiles.
 SwimHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,游泳,Swim
-TeamSize,KEYWORD,Description for the player's current size of team,队伍规模：商队中单位的总数。,Team Size: Total number of Units in the Caravan.
+TeamSize,KEYWORD,Description for the player's current size of team,队伍规模:商队中单位的总数。,Team Size: Total number of Units in the Caravan.
 TeamSizeHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,队伍规模,Team Size
-Teleport,KEYWORD,Description for the teleporting movement mode,传送：一种移动模式，对部分格子无视移动消耗，并允许单位穿过受阻与不可通行格。,Teleporting: A movement mode which ignores movement costs for some Tiles and allows the Unit to move through Obstructed and Impassable Tiles.
+Teleport,KEYWORD,Description for the teleporting movement mode,传送:一种移动模式，对部分格子无视移动的消耗，并允许单位穿过受阻与不可通行的格子。,Teleporting: A movement mode which ignores movement costs for some Tiles and allows the Unit to move through Obstructed and Impassable Tiles.
 TeleportHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,传送,Teleport
-TotalKeys,KEYWORD,Explanation for UI element that tells the player how many keys they have.,钥匙：单位与商队背包中钥匙的总数。钥匙可打开上锁的门与宝箱。,Keys: Total number of keys in Unit and Caravan inventories. Keys open locked doors and chests.
+TotalKeys,KEYWORD,Explanation for UI element that tells the player how many keys they have.,钥匙:单位与商队背包中钥匙的总数。钥匙可打开上锁的门与宝箱。,Keys: Total number of keys in Unit and Caravan inventories. Keys open locked doors and chests.
 TotalKeysHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,钥匙,Keys
 TriangleButton,KEYWORD,Button label,武器类型三角,Weapon Style Triangle
-Turn,KEYWORD,Description for the time when an individual unit is actionable,单位回合：可行动的时间段，在移动与结束回合的行动后结束。,"Unit's Turn: Period to act, ends after move and turn-ending action."
+Turn,KEYWORD,Description for the time when an individual unit is actionable,单位回合:可以行动的时间段，在移动与结束回合的行动后结束。,"Unit's Turn: Period to act, ends after move and turn-ending action."
 Unit,KEYWORD,An actor in the gameworld that can join teams and interact with grids,单位,Unit
 UnitListButton,KEYWORD,Button label,查看单位列表,See Unit List
 VIPHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,受保护者,Protectee
-Walk,KEYWORD,Description for the walking movement mode,行走：普通移动模式。,Walking: The normal movement mode.
+Walk,KEYWORD,Description for the walking movement mode,行走:普通移动模式。,Walking: The normal movement mode.
 WalkHighlight,KEYWORD,Label for a keyword to be highlighted in text - it is the SAME as its corresponding keyword,行走,Walk
-Act1Arena1,LEVEL,Arena name in act 1,德里瓦斯托竞技场：1v1,Drivasto Arena: 1v1
-Act1Arena2,LEVEL,Arena name in act 1,德里瓦斯托竞技场：2v2,Drivasto Arena: 2v2
-Act1Arena3,LEVEL,Arena name in act 1,德里瓦斯托竞技场：3v3,Drivasto Arena: 3v3
+Act1Arena1,LEVEL,Arena name in act 1,德里瓦斯托竞技场:1v1,Drivasto Arena: 1v1
+Act1Arena2,LEVEL,Arena name in act 1,德里瓦斯托竞技场:2v2,Drivasto Arena: 2v2
+Act1Arena3,LEVEL,Arena name in act 1,德里瓦斯托竞技场:3v3,Drivasto Arena: 3v3
 Act1Easy1,LEVEL,Name for one of the first maps - an arrival at a market dock,海边集市,Market by the Sea
 Act1Easy2,LEVEL,Name for one of the first maps - an arrival at a harbor,德里瓦斯托港,Porto di Drivasto
 Act1Easy3,LEVEL,Name for one of the first maps - an arrival at a harbor,贝拉码头,Bella Marina
@@ -1855,9 +1855,9 @@ Act1Normal4,LEVEL,Normal Level name in act 1,博斯科渡口,Bosco River Crossin
 Act1Normal5,LEVEL,Normal Level name in act 1,德里瓦斯托近郊,Drivasto Outskirts
 Act1Normal6,LEVEL,Normal Level name in act 1,博斯科工坊,Bosco Workshop
 Act1Normal7,LEVEL,Normal Level name in act 1,德里瓦斯托医院,Drivasto Ospedale
-Act2Arena1,LEVEL,Arena name in act 2,卡登斯竞技场：1v1,Cadens Arena: 1v1
-Act2Arena2,LEVEL,Arena name in act 2,卡登斯竞技场：2v2,Cadens Arena: 2v2
-Act2Arena3,LEVEL,Arena name in act 2,卡登斯竞技场：3v3,Cadens Arena: 3v3
+Act2Arena1,LEVEL,Arena name in act 2,卡登斯竞技场:1v1,Cadens Arena: 1v1
+Act2Arena2,LEVEL,Arena name in act 2,卡登斯竞技场:2v2,Cadens Arena: 2v2
+Act2Arena3,LEVEL,Arena name in act 2,卡登斯竞技场:3v3,Cadens Arena: 3v3
 Act2Easy1,LEVEL,Intro level name in act 2,边境山,Mont Frontiere
 Act2Easy2,LEVEL,Intro level name in act 2,帝国边地,Empire Borderlands
 Act2Elite1,LEVEL,Hard Level name in act 2,宅邸掌事者,Ordinator of the Maison
@@ -1873,53 +1873,53 @@ Act2Normal5,LEVEL,Normal Level name in act 2,赌徒庄园,Manoir du Flambeur
 Act2Normal6,LEVEL,Normal Level name in act 2,环绕壕沟,Ring Around the Moatsy
 Act2Normal7,LEVEL,Normal Level name in act 2,毒沼,Empoisonne Swamp
 Act3Finale1,LEVEL,level name for the final level,月山之星,The Star of Montes Luna
-LoadingScreenTip1,Menu,Loading screen tip,提示：用肥皂洗手。,Tip: Wash your hands with soap.
-LoadingScreenTip10,Menu,Loading screen tip,提示：这一切终将过去。,Tip: This too shall pass.
-LoadingScreenTip11,Menu,Loading screen tip,提示：感谢游玩！,Tip: Thanks for playing!
-LoadingScreenTip12,Menu,Loading screen tip,提示：进食能为你白天的活动提供能量。,Tip: Eating food gives you the energy to perform tasks during the day.
-LoadingScreenTip13,Menu,Loading screen tip,提示：现在就喝口水吧。,Tip: Take a drink of water right now.
-LoadingScreenTip14,Menu,Loading screen tip,提示：每晚尽量睡 7-9 小时。,Tip: Try to get 7-9 hours of sleep a night.
-LoadingScreenTip15,Menu,Loading screen tip,提示：睡前别看手机。,Tip: Don't look at your phone right before bed.
-LoadingScreenTip16,Menu,Loading screen tip,提示：散步对身心都有好处。,Tip: Taking walks is good for your body and mind.
-LoadingScreenTip17,Menu,Loading screen tip,提示：不要听到什么就信什么。,Tip: Don't believe everything you hear.
-LoadingScreenTip18,Menu,Loading screen tip,提示：阅读屏幕上的文字有助于游玩。,Tip: Reading the text on the screen helps you play.
-LoadingScreenTip19,Menu,Loading screen tip,提示：按下电脑电源键，它就会关机。,"Tip: If you press the power button on your PC, it will turn off."
-LoadingScreenTip2,Menu,Loading screen tip,提示：过马路前左右看。,Tip: Look both ways before crossing the street.
-LoadingScreenTip20,Menu,Loading screen tip,提示：偶尔重启一下电脑。,Tip: Restart your computer every now and again.
-LoadingScreenTip21,Menu,Loading screen tip,提示：需要帮助时别害怕开口。,Tip: Don't be afraid to ask for help when you need it.
-LoadingScreenTip22,Menu,Loading screen tip,提示：开口前先想一想。,Tip: Think before speaking.
-LoadingScreenTip23,Menu,Loading screen tip,提示：当心可疑邮件。,Tip: Be wary of suspicious emails.
-LoadingScreenTip24,Menu,Loading screen tip,提示：对世界保持好奇。,Tip: Stay curious about the world.
-LoadingScreenTip25,Menu,Loading screen tip,提示：为进步喝彩，无论多小。,"Tip: Celebrate progress, no matter how small."
-LoadingScreenTip26,Menu,Loading screen tip,提示：不要混用清洁剂。,Tip: Don't mix cleaning products.
-LoadingScreenTip27,Menu,Loading screen tip,提示：每周吸尘一次。,Tip: Vacuum once a week.
-LoadingScreenTip28,Menu,Loading screen tip,提示：别记仇。,Tip: Don't hold onto grudges.
-LoadingScreenTip29,Menu,Loading screen tip,提示：网上的争吵从不值得参与。,Tip: Internet arguments are never worth getting involved in.
-LoadingScreenTip3,Menu,Loading screen tip,提示：想一件你心怀感激的事。,Tip: Think of one thing that you're grateful for.
-LoadingScreenTip30,Menu,Loading screen tip,提示：别忘了给自己留点时间。,Tip: Don't forget to save time for yourself.
-LoadingScreenTip31,Menu,Loading screen tip,提示：别为你无法掌控的事烦恼。,Tip: Try not to fret about things you have no control over.
-LoadingScreenTip32,Menu,Loading screen tip,提示：遮光窗帘有助睡眠。,Tip: Blackout curtains can help you sleep better.
-LoadingScreenTip33,Menu,Loading screen tip,提示：确保摄入足够的维生素 D。,Tip: Make sure you're getting enough Vitamin D.
-LoadingScreenTip34,Menu,Loading screen tip,提示：完美是好的敌人。,Tip: Perfect is the enemy of good.
-LoadingScreenTip35,Menu,Loading screen tip,提示：装一个一氧化碳报警器。,Tip: Get a carbon monoxide detector.
-LoadingScreenTip36,Menu,Loading screen tip,提示：你<i>确实</i>有在用牙线，对吧？,"Tip: You <i>are</i> remembering to floss, aren't you?"
-LoadingScreenTip37,Menu,Loading screen tip,提示：加入 Discord！,Tip: Join the Discord!
-LoadingScreenTip38,Menu,Loading screen tip,提示：欢迎使用或参与 Astral Throne Wiki！,Tip: Feel free to use or contribute to the Astral Throne Wiki!
-LoadingScreenTip39,Menu,Loading screen tip,提示：尽量每天在同一时间入睡与起床。,Tip: Try to go to sleep and wake up around the same time every day.
-LoadingScreenTip4,Menu,Loading screen tip,提示：厨房起火要闷灭，不要泼水。,"Tip: Smother kitchen fires, don't pour water on them."
-LoadingScreenTip5,Menu,Loading screen tip,提示：试着在饮食中多加些蔬菜。,Tip: Try introducing more vegetables into your diet.
-LoadingScreenTip6,Menu,Loading screen tip,提示：挺直你的背。,Tip: Straighten up your posture.
-LoadingScreenTip7,Menu,Loading screen tip,提示：每 30 分钟看 30 秒 9 米外的物体。,Tip: Focus your eyes on something 30 feet away for 30 seconds every 30 minutes.
-LoadingScreenTip8,Menu,Loading screen tip,提示：尽可能去爱每一个人。,Tip: Love everyone as much as you can.
-LoadingScreenTip9,Menu,Loading screen tip,提示：没有什么是永恒的。,Tip: Nothing is forever.
+LoadingScreenTip1,Menu,Loading screen tip,提示:用肥皂洗手。,Tip: Wash your hands with soap.
+LoadingScreenTip10,Menu,Loading screen tip,提示:这一切终将过去。,Tip: This too shall pass.
+LoadingScreenTip11,Menu,Loading screen tip,提示:感谢游玩！,Tip: Thanks for playing!
+LoadingScreenTip12,Menu,Loading screen tip,提示:进食能为你白天的活动提供能量。,Tip: Eating food gives you the energy to perform tasks during the day.
+LoadingScreenTip13,Menu,Loading screen tip,提示:现在就喝口水吧。,Tip: Take a drink of water right now.
+LoadingScreenTip14,Menu,Loading screen tip,提示:每晚尽量睡 7-9 小时。,Tip: Try to get 7-9 hours of sleep a night.
+LoadingScreenTip15,Menu,Loading screen tip,提示:睡前别看手机。,Tip: Don't look at your phone right before bed.
+LoadingScreenTip16,Menu,Loading screen tip,提示:散步对身心都有好处。,Tip: Taking walks is good for your body and mind.
+LoadingScreenTip17,Menu,Loading screen tip,提示:不要听到什么就信什么。,Tip: Don't believe everything you hear.
+LoadingScreenTip18,Menu,Loading screen tip,提示:阅读屏幕上的文字有助于游玩。,Tip: Reading the text on the screen helps you play.
+LoadingScreenTip19,Menu,Loading screen tip,提示:按下电脑电源键，它就会关机。,"Tip: If you press the power button on your PC, it will turn off."
+LoadingScreenTip2,Menu,Loading screen tip,提示:过马路前左右看。,Tip: Look both ways before crossing the street.
+LoadingScreenTip20,Menu,Loading screen tip,提示:偶尔重启一下电脑。,Tip: Restart your computer every now and again.
+LoadingScreenTip21,Menu,Loading screen tip,提示:需要帮助时别害怕开口。,Tip: Don't be afraid to ask for help when you need it.
+LoadingScreenTip22,Menu,Loading screen tip,提示:开口前先想一想。,Tip: Think before speaking.
+LoadingScreenTip23,Menu,Loading screen tip,提示:当心可疑邮件。,Tip: Be wary of suspicious emails.
+LoadingScreenTip24,Menu,Loading screen tip,提示:对世界保持好奇。,Tip: Stay curious about the world.
+LoadingScreenTip25,Menu,Loading screen tip,提示:为进步喝彩，无论多小。,"Tip: Celebrate progress, no matter how small."
+LoadingScreenTip26,Menu,Loading screen tip,提示:不要混用清洁剂。,Tip: Don't mix cleaning products.
+LoadingScreenTip27,Menu,Loading screen tip,提示:每周吸尘一次。,Tip: Vacuum once a week.
+LoadingScreenTip28,Menu,Loading screen tip,提示:别记仇。,Tip: Don't hold onto grudges.
+LoadingScreenTip29,Menu,Loading screen tip,提示:网上的争吵从不值得参与。,Tip: Internet arguments are never worth getting involved in.
+LoadingScreenTip3,Menu,Loading screen tip,提示:想一件你心怀感激的事。,Tip: Think of one thing that you're grateful for.
+LoadingScreenTip30,Menu,Loading screen tip,提示:别忘了给自己留点时间。,Tip: Don't forget to save time for yourself.
+LoadingScreenTip31,Menu,Loading screen tip,提示:别为你无法掌控的事烦恼。,Tip: Try not to fret about things you have no control over.
+LoadingScreenTip32,Menu,Loading screen tip,提示:遮光窗帘有助睡眠。,Tip: Blackout curtains can help you sleep better.
+LoadingScreenTip33,Menu,Loading screen tip,提示:确保摄入足够的维生素 D。,Tip: Make sure you're getting enough Vitamin D.
+LoadingScreenTip34,Menu,Loading screen tip,提示:完美是好的敌人。,Tip: Perfect is the enemy of good.
+LoadingScreenTip35,Menu,Loading screen tip,提示:装一个一氧化碳报警器。,Tip: Get a carbon monoxide detector.
+LoadingScreenTip36,Menu,Loading screen tip,提示:你<i>确实</i>有在用牙线，对吧？,"Tip: You <i>are</i> remembering to floss, aren't you?"
+LoadingScreenTip37,Menu,Loading screen tip,提示:加入 Discord！,Tip: Join the Discord!
+LoadingScreenTip38,Menu,Loading screen tip,提示:欢迎使用或参与 Astral Throne Wiki！,Tip: Feel free to use or contribute to the Astral Throne Wiki!
+LoadingScreenTip39,Menu,Loading screen tip,提示:尽量每天在同一时间入睡与起床。,Tip: Try to go to sleep and wake up around the same time every day.
+LoadingScreenTip4,Menu,Loading screen tip,提示:厨房起火要闷灭，不要泼水。,"Tip: Smother kitchen fires, don't pour water on them."
+LoadingScreenTip5,Menu,Loading screen tip,提示:试着在饮食中多加些蔬菜。,Tip: Try introducing more vegetables into your diet.
+LoadingScreenTip6,Menu,Loading screen tip,提示:挺直你的背。,Tip: Straighten up your posture.
+LoadingScreenTip7,Menu,Loading screen tip,提示:每 30 分钟看 30 秒 9 米外的物体。,Tip: Focus your eyes on something 30 feet away for 30 seconds every 30 minutes.
+LoadingScreenTip8,Menu,Loading screen tip,提示:尽可能去爱每一个人。,Tip: Love everyone as much as you can.
+LoadingScreenTip9,Menu,Loading screen tip,提示:没有什么是永恒的。,Tip: Nothing is forever.
 About,MENU,Label for the 'about the character' section of the unit menu,关于,About
 AchievementsLabel,MENU,Label for the achievements menu of the glossary,成就,Achievements
-Act1Map,MENU,Name of location of first act,第 1 幕：德里瓦斯托共和国,Act 1: Drivasto Republic
+Act1Map,MENU,Name of location of first act,第 1 幕:德里瓦斯托共和国,Act 1: Drivasto Republic
 Act1Name,MENU,Name for the first world,抵达德里瓦斯托,Arrival at Drivasto
 Act2Name,MENU,Name for the first world,破碎的帝国,A Shattered Empire
 Act3Name,MENU,Name for the first world,陨落之穹,The Fallen Firmament
 ActLabel,MENU,Name for the set of levels the player is currently in,幕,Act
-ActStatus,MENU,Label for the current world/act the player is on e.g. Act 1: Drivasto,第 <Number> 幕：<ActName>,Act <Number>: <ActName>
+ActStatus,MENU,Label for the current world/act the player is on e.g. Act 1: Drivasto,第 <Number> 幕:<ActName>,Act <Number>: <ActName>
 AlchemistLeaveItemConfirm,MENU,Asking the player if they want to leave the alchemist if they haven't picked up their item,要留下你转化的物品吗？,Leave your transmuted item behind?
 AlchemistOverwriteConfirm,MENU,Asking the player if they want to overwrite their transmuted item at the alchemist,要销毁未领取的转化物品吗？,Destroy unclaimed transmuted item?
 AlchemistUsesConfirm,MENU,Asking the player if they want to leave the alchemist if they still have some charges left,你还可以继续使用炼金术士，确定要离开吗？,"You can still use the Alchemist, are you sure you want to leave?"
@@ -1928,12 +1928,12 @@ AllWeaponsLabel,MENU,Custom game config for gaining all weapons,获得所有武�
 Ally,MENU,Label denoting the player's team,玩家,Player
 AllyPhaseStatus,MENU,Label for the player's turn,玩家阶段,Player Phase
 ArenaDeath,MENU,Choosing a fight to the death at the arena,生死斗,Deathmatch
-ArenaDialogue,MENU,"Introducing the player to the arena, a small-scale battle where they can earn rewards",欢迎来到竞技场。这里的经营者是个古怪的头目，他似乎认为角斗竞技是侍奉他那新神的最佳方式。规矩是：只有民兵单位可以参战，英雄们只能旁观。,"Welcome to the Arena, run by a strange ringleader who seems to think gladiatorial sport is the best way to serve his new God. The catch: only Militia Units can fight, Heroes must sit this one out."
-ArenaForfeitObjective,MENU,Label for instructions on how to quit the arena duel,可通过以下任一方式认输：,Forfeit by one of the following:
+ArenaDialogue,MENU,"Introducing the player to the arena, a small-scale battle where they can earn rewards",欢迎来到竞技场。这里的经营者是个古怪的头目，他似乎认为角斗竞技是侍奉他那新神的最佳方式。规矩是:只有民兵单位可以参战，英雄们只能旁观。,"Welcome to the Arena, run by a strange ringleader who seems to think gladiatorial sport is the best way to serve his new God. The catch: only Militia Units can fight, Heroes must sit this one out."
+ArenaForfeitObjective,MENU,Label for instructions on how to quit the arena duel,可通过以下任一方式认输:,Forfeit by one of the following:
 ArenaHeader,MENU,Header for the arena dialogue menu,欢迎来到竞技场,Welcome to the Arena
 ArenaSkip,MENU,"If the player approaches the arena without enemy militia units, they are turned away",很遗憾，经营竞技场的那个怪人认为你当前的队伍构成无法取悦他的神。似乎只有民兵单位才能参赛。,"Unfortunately, the strange man running the Arena deems you unable to appease his God with your current party makeup. It seems only Militia Units can compete."
 ArenaSpar,MENU,Choosing a sparring (nonlethal) match at the arena,切磋,Spar
-AscensionLabel,MENU,Main menu option for player to choose their difficulty,难度：\n<Difficulty>,Difficulty:\n<Difficulty>
+AscensionLabel,MENU,Main menu option for player to choose their difficulty,难度:\n<Difficulty>,Difficulty:\n<Difficulty>
 Attack,MENU,Action for one unit fighting against another unit who may counterattack,战斗,Fight
 AutoHealButton,MENU,Button that heals all units,自动治疗,Auto-Heal
 AutoHealConfirmation,MENU,Confirming auto-heal all units in caravan,完全治愈单位，还是高效使用物品以避免过量治疗？,Heal Units fully or efficiently use items to prevent too much overheal?
@@ -1943,7 +1943,7 @@ ChapterLabel,MENU,Name for the current level the player is at,章节,Chapter
 ChestsLooted,MENU,Label for all the items a player opened,已掠夺宝箱,Chests Plundered
 ClaimLoot,MENU,Label for button player clicks to claim objective rewards,领取,Claim
 ClassesAndSkills,MENU,Label for the classes and skills menu of the codex,职业与技能,Classes and Skills
-ClassLabel,MENU,Label for a unit's class,职业：<Class>,Class: <Class>
+ClassLabel,MENU,Label for a unit's class,职业:<Class>,Class: <Class>
 ClassSkills,MENU,Codex label for class skills,职业技能,Class Skills
 CloseShop,MENU,Button for closing the shop,离开,Leave
 CloseShopConfirmation,MENU,Confirming closing the shop,继续前进？,Continue Forth?
@@ -1967,8 +1967,8 @@ CurrentRound,MENU,The number of the current round of the map,轮,Round
 CustomExperienceGain,MENU,Custom game config for chaning the amount of experience units gain,经验获取,Experience Gain
 CustomGame,MENU,Button for starting a new game with customizable rules,自定义游戏,Custom Game
 CustomGameMiscTooltip,MENU,Telling the player these particular custom game stats will override the difficulty modifiers they select,这些设置可能会覆盖与之冲突的难度修正。若目标中包含轮数限制，则轮数限制的改动对其无效。,These may override any conflicting Difficulty Modifiers. Round Limit changes won't affect Encounters with the Round Limit as a part of an Objective.
-CustomGameTooltip,MENU,Telling the player that playing a custom game won't have any progress,警告：若部署过多英雄，剧情场景可能无法按正确顺序播放。自定义游戏不计入成就进度。\n通过完善图鉴条目来解锁选项。,"Warning: If you deploy too many Heroes, story scenes might not play in the proper sequence. Custom Games will not count towards Achievement progress.\nUnlock options by completing their Codex entries."
-CustomRunLabel,MENU,Label for run seed in custom games menu,本局种子：,Run Seed:
+CustomGameTooltip,MENU,Telling the player that playing a custom game won't have any progress,警告:若部署过多英雄，剧情场景可能无法按正确顺序播放。自定义游戏不计入成就进度。\n通过完善图鉴条目来解锁选项。,"Warning: If you deploy too many Heroes, story scenes might not play in the proper sequence. Custom Games will not count towards Achievement progress.\nUnlock options by completing their Codex entries."
+CustomRunLabel,MENU,Label for run seed in custom games menu,本局种子:,Run Seed:
 Dang,MENU,Button label for corrupted save file acceptance,哎呀,Dang
 DangerZone,MENU,Button to show the attack range of all enemies on the map,危险区域,Danger Zone
 DataConsentConfirm,MENU,Asking the player if they are okay with data collection,是否向开发者发送分析数据？我们仅收集匿名游玩数据，用于平衡与设计更新。\n你可以随时在设置中更改。,Would you like to send analytics to the developers? We only collect anonymous gameplay data for the sake of balancing and design updates.\nYou can change this any time in the Settings.
@@ -2034,10 +2034,10 @@ DontInterruptGameplay,MENU,Behaviour for dialogue bubbles to not stop gameplay,�
 DontSendLogs,MENU,Button label for corrupted save file acceptance,不发送,Don't Send
 DownedUnitPopup,MENU,Popup text for a unit being downed,倒下！,Downed!
 EndEvent,MENU,Button for continuing the game after an event concludes,继续你的旅程…,Continue on your journey...
-EndingsLabel,MENU,Label for the endings of the story the player has seen,结局：,Endings:
+EndingsLabel,MENU,Label for the endings of the story the player has seen,结局:,Endings:
 EndPhase,MENU,Button to manually end all of the player units' turns,结束阶段,End Phase
 EndTrading,MENU,End unit trading,完成,Finish
-EnemiesKilled,MENU,Label for the aggregate for how many times the player defeated enemy units,击败敌人数：<Amount>,Enemies Killed: <Amount>
+EnemiesKilled,MENU,Label for the aggregate for how many times the player defeated enemy units,击败敌人数:<Amount>,Enemies Killed: <Amount>
 Enemy,MENU,Label denoting the enemy team,敌人,Enemy
 EnemyPhaseStatus,MENU,Label for the enemy's turn,敌方阶段,Enemy Phase
 EnemyTeamName,MENU,Default label for the enemy team,碎星侍徒,Acolytes of the Shattered Star
@@ -2056,7 +2056,7 @@ Focus,MENU,Weapon name for casting spells with an item,魔法法器,Magic Focus
 FogExp,MENU,The replacement for the amount of exp when the stardust is preventing you from gaining more,X,X
 ForceFieldSwitchPopUpText,MENU,Pop-up text for when you switch a forcefield,已切换！,Switched!
 ForfeitLabel,MENU,"Label for the player losing the arena duel, but not experiencing game over",认输,Forfeit
-GainedGold,MENU,Label for the aggregate for how much gold the player has gained in total,获得金币：<Amount>,Gold Received: <Amount>
+GainedGold,MENU,Label for the aggregate for how much gold the player has gained in total,获得金币:<Amount>,Gold Received: <Amount>
 GainSkillSlot,MENU,Pop up text for gaining a skill slot with an item,+技能栏,+Skill Slot
 GameWinLabel,MENU,Label for winning the game,胜利,Triumph
 GeneralMemories,MENU,Codex label for generic memories,通用记忆,General Memories
@@ -2079,13 +2079,13 @@ ItemsLooted,MENU,Label for all the items a player looted,已拾取物品,Items L
 ItemsPickpocketed,MENU,Label for all the items a player took from enemies,已窃取物品,Items Stolen
 Keys,MENU,Key resource,钥匙,Key
 LeaderLabel,MENU,Main menu option for player to choose their team's leader,队长,Leader
-LeaderPortraitLabel,MENU,Label for the run's leader,队长：<CharName>,Leader: <CharName>
+LeaderPortraitLabel,MENU,Label for the run's leader,队长:<CharName>,Leader: <CharName>
 LeadersKilled,MENU,Label for all the leaders a player killed,已击败首领,Leaders Vanquished
 LearnSkillConfirmation,MENU,Asking the player if they are sure they want a unit to learn a skill,确定要让<CharName>学习<Skill>吗？,Are you sure you want <CharName> to learn <Skill>?
 Legend,MENU,Label for the menu that explains what icons mean,图例,Key
 LevelUpLabel,MENU,Title for level up menu,升级！,Level Up!
 Light,MENU,Weapon name for small weapons,轻武,Light Weapon
-LoadGameConfirmation,MENU,Confirming loading and continuing previously saved run. E.g. Lyra at Act 1: Chapter 6,<Unit>位于第 <Act> 幕：第 <Chapter> 章。\n要继续游戏吗？,<Unit> is at Act <Act>: Chapter <Chapter>.\nContinue Game?
+LoadGameConfirmation,MENU,Confirming loading and continuing previously saved run. E.g. Lyra at Act 1: Chapter 6,<Unit>位于第 <Act> 幕:第 <Chapter> 章。\n要继续游戏吗？,<Unit> is at Act <Act>: Chapter <Chapter>.\nContinue Game?
 LockedHero,MENU,Label for a locked hero,Beta 版锁定,Locked for Beta
 LootClaimed,MENU,Label for button after the loot has been claimed,已领取,Claimed
 LootUnclaimed,MENU,Label for button after the loot has not been claimed,未领取,Unclaimed
@@ -2096,10 +2096,10 @@ ManageEquipment,MENU,Button to manage the team's inventories,管理装备,Manage
 Marionette,MENU,Name for a doll,提线木偶,Marionette
 Memories,MENU,Label for the memory menu of the codex,记忆,Memories
 Memory,MENU,Label for picking a memory,记忆,Memory
-MilitiaRecruited,MENU,Label for the aggregate for how many units the player recruited,已招募民兵单位：<Amount>,Militia Units Recruited: <Amount>
+MilitiaRecruited,MENU,Label for the aggregate for how many units the player recruited,已招募民兵单位:<Amount>,Militia Units Recruited: <Amount>
 MilitiaUnitsLabel,MENU,Label for the militia units menu in the codex,民兵单位,Militia Units
 MiscSkills,MENU,Codex label for all the skills that can't be neatly categorized,其他技能,Misc. Skills
-MountLabel,MENU,Label for the unit's mount,坐骑：,Mount:
+MountLabel,MENU,Label for the unit's mount,坐骑:,Mount:
 Mounts,MENU,Codex label for mounts,坐骑,Mounts
 Move,MENU,Label for action for unit to walk,移动,Move
 NewGame,MENU,Button for starting a new game,开始游戏,Start Game
@@ -2107,7 +2107,7 @@ NextAvailableUnit,MENU,Button to cycle through currently actionable units,下一
 No,MENU,Confirmation decline,否,No
 NoCampaignLimit,MENU,Custom game config for no campaign/run limit,无战役限制,No Campaign Limit
 NoLootCollected,MENU,Menu text for when the player did not get any loot,未收集到任何物品…,No Items Collected...
-None,MENU,None,无,None
+,MENU,,无,
 NoObjectivesCompleted,MENU,Menu text for when the player did not complete any objectives,未完成任何目标…,No Objectives Completed...
 NoTurnLimit,MENU,Custom game config for no/really high turn limit,99 轮限制,99 Round Limit
 ObjectiveCompleted,MENU,Pop up text for completing an objective,目标完成！,Objective Completed!
@@ -2154,11 +2154,11 @@ ResetMetaprogressionConfirm,MENU,Confirming if the player wants to reset their s
 ResetMetaprogressionWarning,MENU,Extra warning if the player wants to reset their save,确定吗？你将失去所有已解锁的难度与英雄！\n游戏也会自行重启。,Are you sure? You'll lose all your unlocked Difficulties and Heroes!\nThe game will also restart itself.
 ResetTutorialConfirmation,MENU,Confirming resetting the tutorial messages,要重新启用所有已看过的教学提示吗？,Re-enable all previously seen tutorial messages?
 RestartGame,MENU,Button for starting a new run,重试,Retry
-ResultAmount,MENU,Label for a result's amount,结果：<Amount>,Result: <Amount>
+ResultAmount,MENU,Label for a result's amount,结果:<Amount>,Result: <Amount>
 ReturnToMenu,MENU,Button for returing to the main menu,返回标题,Return to Title
 ReturnToMenuConfirmation,MENU,Confirming the player really wants to return to main menu,要返回主菜单吗？,Return to the Main Menu?
 Revive,MENU,Action to revive an adjacent downed unit,救援,Save
-RewardsLabel,MENU,Title for the list of items and money you win at the end of an encounter,战利品：,Spoils:
+RewardsLabel,MENU,Title for the list of items and money you win at the end of an encounter,战利品:,Spoils:
 RichContextAniara,MENU,Steam rich presence text for playing as Aniara,与阿尼亚拉一同夺取掌控,Seizing control with Aniara
 RichContextAzha,MENU,Steam rich presence text for playing as Azha,与阿莎完成最后一票,Doing one last job with Azha
 RichContextCetus,MENU,Steam rich presence text for playing as Cetus,与刻托斯一同收集珍品,Collecting fine goods with Cetus
@@ -2169,15 +2169,15 @@ RichContextSol,MENU,Steam rich presence text for playing as Sol Ignis,与索尔�
 RichContextTitleScreen,MENU,Rich presence for being on the title screen,整装待发,Preparing for Embark
 RichContextVega,MENU,Steam rich presence text for playing as Vega,与维加一同调查星尘,Investigating the Stardust with Vega
 Ritual,MENU,Weapon name for casting spells through a dance or ritual,魔法仪式,Magic Ritual
-RunSeedLabel,MENU,Label for the current run's RNG seed,本局种子：<Seed>,Run Seed: <Seed>
+RunSeedLabel,MENU,Label for the current run's RNG seed,本局种子:<Seed>,Run Seed: <Seed>
 RunSummary,MENU,Label for the total stats a player has over a run,远征报告,Expedition Report
-RunTime,MENU,Label for the time a player has taken in a run,总时长：<Time>,Total Time: <Time>
-RunWins,MENU,Label for the aggregate for how many times the player has beaten the game,通关次数：<Amount>,Runs Won: <Amount>
+RunTime,MENU,Label for the time a player has taken in a run,总时长:<Time>,Total Time: <Time>
+RunWins,MENU,Label for the aggregate for how many times the player has beaten the game,通关次数:<Amount>,Runs Won: <Amount>
 Save and Quit,MENU,Button to save and quit the game,保存并退出,Save and Quit
 SavedUnit,MENU,Popup text for saving a unit,已返回商队,Returned to Caravan
 SaveLoadError,MENU,Telling the player their save file is corrupted,加载存档失败，文件已损坏。是否将错误日志发送给开发者以帮助修复该问题？,Error loading corrupted save file. Would you like to send the error logs to the developers to help them fix the issue?
 SecondaryHeroLabel,MENU,Main menu option for player to choose their team's secondary hero,次席,Secondary
-SecondaryPortraitLabel,MENU,Label for the run's second hero,次席：<CharName>,Secondary: <CharName>
+SecondaryPortraitLabel,MENU,Label for the run's second hero,次席:<CharName>,Secondary: <CharName>
 SeenDialogueDisable,MENU,Option to not let previously seen dialogue sequences play out at all,完全禁用,Disable Entirely
 SeenDialogueModal,MENU,Asking the player how they'd like to handle dialogue sequences they've already seen,你即将看到一段已经看过的对话。你希望正常播放、播放但不中断游戏，还是完全禁用？\n（你可以随时在设置中更改）,"You're about to see a conversation you've already seen. Would you like to let it play out as normal, let it play out but not interrupt gameplay, or disable it entirely?\n(You can change this any time in the Settings)"
 SeenDialogueNoInterrupt,MENU,Option to let previously seen dialogue sequences play out without interrupting,不中断,Don't Interrupt
@@ -2207,15 +2207,15 @@ SkirmishLeaders,MENU,Codex label for bosses of regular encounters,遭遇战首�
 SlotReplacement,MENU,"When a unit wants to learn a skill and their skill slots are full, they must replace a skill",技能栏已满，请选择 1 个要替换的技能。,"Skill Slots are full, please choose a Skill to replace."
 Sold,MENU,Pop-up text when selling items,已出售！,Sold!
 SortButton,MENU,Button that sorts on click,排序,Sort
-StackObjectivesGrammar,MENU,"Grammar for objective label that has the player do an amount of an action. e.g. ""Defeat enemies: (3/4)""",<Action>：（<CurrentAmount>/<TotalAmount>）,<Action>: (<CurrentAmount>/<TotalAmount>)
-StartingExpLabel,MENU,Label for the experience level a unit will start at,起始经验：,Starting Exp:
-StartingLevelLabel,MENU,Label for the level a unit will start at,起始等级：,Starting Level:
+StackObjectivesGrammar,MENU,"Grammar for objective label that has the player do an amount of an action. e.g. ""Defeat enemies: (3/4)""",<Action>:（<CurrentAmount>/<TotalAmount>）,<Action>: (<CurrentAmount>/<TotalAmount>)
+StartingExpLabel,MENU,Label for the experience level a unit will start at,起始经验:,Starting Exp:
+StartingLevelLabel,MENU,Label for the level a unit will start at,起始等级:,Starting Level:
 StartingLevelLabel2,MENU,Label for starting level settings,起始等级,Starting Level
 StartingLevelSkillsLabel,MENU,Custom game config for gaining skills from starting levels,从起始等级获得随机技能,Gain Random Skills From Starting Levels
 StartingMap,MENU,Label for the starting map of a run,遭遇战,Encounter
 StartingParty,MENU,Label for the starting party of a run,起始队伍,Starting Party
-StartingRelicLabel,MENU,Label for the starting relic of a character,起始记忆：,Starting Memory:
-StartingSkillLabel,MENU,Label for the starting skill of a character,起始技能：,Starting Skill:
+StartingRelicLabel,MENU,Label for the starting relic of a character,起始记忆:,Starting Memory:
+StartingSkillLabel,MENU,Label for the starting skill of a character,起始技能:,Starting Skill:
 StatGrid,MENU,Label for the stat grid of a unit,属性,Stat
 Stats,MENU,Label for window containing unit stats,属性,Stats
 StatusEffectsLabel,MENU,Label for the status effect menu of the codex,状态效果,Status Effects
@@ -2223,15 +2223,15 @@ StatusMenuButton,MENU,Button that takes the player to the unit summary from the 
 SubClassBonusGrowth,MENU,Label for extra growth rates awarded by subclass,+成长,+Growth
 SubClassBonusLevel,MENU,Label for extra stats awarded by subclass,+等级,+Level
 Subclasses,MENU,Codex label for subclass items,副职业,Subclasses
-SubclassLabel,MENU,Label for a unit's subclass,副职业：<Subclass>,Subclass: <Subclass>
-SubclassPopUpText,MENU,Pop-up text for when a unit gains a sublcass,副职业：<Subclass>,Subclass: <Subclass>
-SupportBonusList,MENU,Label for a list of units that are relevant to a support skill,（支援单位：<UnitList>）,(Supporting Units: <UnitList>)
+SubclassLabel,MENU,Label for a unit's subclass,副职业:<Subclass>,Subclass: <Subclass>
+SubclassPopUpText,MENU,Pop-up text for when a unit gains a sublcass,副职业:<Subclass>,Subclass: <Subclass>
+SupportBonusList,MENU,Label for a list of units that are relevant to a support skill,（支援单位:<UnitList>）,(Supporting Units: <UnitList>)
 SupportBonusNone,MENU,If no units on your team are relevant to the support skill,（你的队伍目前没有相关单位。）,(Your team doesn't have any relevant Units currently.)
 SupportStat,MENU,Pop up text for units that support another unit's stat. E.g. Support STR,支援<Stat>,Support <Stat>
-TargetObjectivesGrammar,MENU,"Grammar for objective label that has the player interact with a specific thing. e.g. ""Defeat the enemy leader: Captain Greg""",<Action>：<Target>,<Action>: <Target>
-TilesMoved,MENU,Label for the aggregate for how much the player's units have moved,移动格数：<Amount>,Tiles Moved: <Amount>
-TimesLeveledUp,MENU,Label for the aggregate for how many times the player's units have levelled up,提升等级：<Amount>,Levels Gained: <Amount>
-TotalAmount,MENU,Label for a total amount,总计：<Amount>,Total: <Amount>
+TargetObjectivesGrammar,MENU,"Grammar for objective label that has the player interact with a specific thing. e.g. ""Defeat the enemy leader: Captain Greg""",<Action>:<Target>,<Action>: <Target>
+TilesMoved,MENU,Label for the aggregate for how much the player's units have moved,移动格数:<Amount>,Tiles Moved: <Amount>
+TimesLeveledUp,MENU,Label for the aggregate for how many times the player's units have levelled up,提升等级:<Amount>,Levels Gained: <Amount>
+TotalAmount,MENU,Label for a total amount,总计:<Amount>,Total: <Amount>
 TotalKills,MENU,Label for all the units a player killed,已击败敌人,Enemies Defeated
 TotalObjectives,MENU,Label for the list of objectives a player has completed,已完成目标,Objectives Accomplished
 Trade,MENU,Action for 2 units to trade with one another,交易,Trade
@@ -2241,17 +2241,17 @@ Unarmed,MENU,Label for a weapon if a unit has none equipped,徒手,Unarmed
 UnclaimedRewards,MENU,Confiming if the player wants to pass on rewards,确定要放弃 <Item> 吗？,Are you sure you want to pass on <Item>?
 UndeployedUnits,MENU,Label for list of units that are not deployed on the map,未部署,Undeployed
 Unequip,MENU,Unequip the currently selected weapon,卸下,Unequip
-UniqueItemLabel,MENU,Label for the special starting item of a character,专属物品：,Unique Item:
+UniqueItemLabel,MENU,Label for the special starting item of a character,专属物品:,Unique Item:
 UnitPreviewInfo,MENU,Button to show a unit's summary,点击查看单位信息。,Click to show Unit info.
 Units,MENU,Button to show list of all units on the map,查看单位,View Units
-UnitsDeployed,MENU,The Number of units that the player is currently deploying on the field. The UI is to look like [Units: 1/5],单位：,Units:
+UnitsDeployed,MENU,The Number of units that the player is currently deploying on the field. The UI is to look like [Units: 1/5],单位:,Units:
 UnitsPermaKilled,MENU,Label for all the player units they let die,光荣的牺牲,Honourable Sacrifices
 UnitsRecruited,MENU,Label for all the units a player recruited,招募的幸存者,Survivors Recruited
-UnitsRemaining,MENU,The Number of units that the enemy has left on their team,剩余：<Amount>,Remaining: <Amount>
+UnitsRemaining,MENU,The Number of units that the enemy has left on their team,剩余:<Amount>,Remaining: <Amount>
 Unknown,MENU,What the player sees if they have not unlocked something yet,？？？,???
 Unlock Chest,MENU,Action to open a locked chest,解锁宝箱,Unlock Chest
 Unlock Door,MENU,Action to open a locked door,解锁门,Unlock Door
-UnlockConditionsGrammar,MENU,Grammar for unlock conditions of a character,达成以下任一条件即可解锁：<Achievements>,Unlock by achieving one of the following: <Achievements>
+UnlockConditionsGrammar,MENU,Grammar for unlock conditions of a character,达成以下任一条件即可解锁:<Achievements>,Unlock by achieving one of the following: <Achievements>
 UnresolvedVariableLabel,MENU,"When a formula is written out generically, it uses this to fill in where a calculated value would be. E.g. Reduces DEF by X (MAG+DEX)",X,X
 UnspecifiedUserLabel,MENU,"When a status effect cares about it's user, but there is no user",使用者,the User
 Use,MENU,"Consume the currently selected consumable, e.g. drink a health potion",使用,Use
@@ -2270,8 +2270,8 @@ WalkBasicMountName,MOUNT,Name for a walking mount,战马,War Horse
 WalkFeebleMountName,MOUNT,Name for a walking mount with low defenses,赛马,Racehorse
 WalkSlowMountName,MOUNT,Name for a walking mount with low speed,骑兵战马,Cavalry Horse
 Achieve:BurnShelf,OBJECTIVE,The objective for destroying bookshelves,烧毁书架,Burn Bookshelves
-Achieve:ComboAnd,OBJECTIVE,The objective text for completing all of a list of subtasks,完成以下全部任务：,Complete each task:
-Achieve:ComboOr,OBJECTIVE,The objective text for completing one item in a list of subtasks,完成以下任一任务：,Complete one of the tasks:
+Achieve:ComboAnd,OBJECTIVE,The objective text for completing all of a list of subtasks,完成以下全部任务:,Complete each task:
+Achieve:ComboOr,OBJECTIVE,The objective text for completing one item in a list of subtasks,完成以下任一任务:,Complete one of the tasks:
 Achieve:KillAllyTeamUnit,OBJECTIVE,The objective text for killing an ally team unit,玩家单位阵亡,Player Unit Deaths
 Achieve:KillEnemyBossUnit,OBJECTIVE,The objective text for killing a enemy team boss unit,击败首领,Defeat the Leader
 Achieve:KillEnemyTeamUnit,OBJECTIVE,The objective text for killing a enemy team unit,击败敌人,Defeat Enemy
@@ -2295,8 +2295,8 @@ GraveyardOptionalObjective,OBJECTIVE,Override text for graveyard's optional obje
 Optional,OBJECTIVE,Used to describe if an objective is not required,（可选）,(Optional)
 PlaceholderHidden,OBJECTIVE,Objective that is just a placeholder,错误,Error
 Prevent:BurnShelf,OBJECTIVE,Objective for preventing the destruction of bookshelves,保护至少 <Modifier> 个书架，否则死亡,Protect at least <Modifier> Bookshelves or die
-Prevent:ComboAnd,OBJECTIVE,The objective text for preventing all of a list of subtasks,阻止以下全部结果：,Prevent all outcomes:
-Prevent:ComboOr,OBJECTIVE,The objective text for preventing one item in a list of subtasks,阻止以下任一结果：,Prevent one of the outcomes:
+Prevent:ComboAnd,OBJECTIVE,The objective text for preventing all of a list of subtasks,阻止以下全部结果:,Prevent all outcomes:
+Prevent:ComboOr,OBJECTIVE,The objective text for preventing one item in a list of subtasks,阻止以下任一结果:,Prevent one of the outcomes:
 Prevent:KillEnemyTeamUnit,OBJECTIVE,Objective for preventing an enemy unit from dying,保护,Protect
 Prevent:KillEnvironmentTeamUnit,OBJECTIVE,"Objective for preventing the destruction of an environmental object, like a tree or a door",保护,Protect
 Prevent:KillOtherTeamUnit,OBJECTIVE,Objective for preventing an unaligned unit from dying,保护,Protect
@@ -2539,7 +2539,7 @@ UnitDataGrowth,STATS,Header for a chart that is the unit's stat growths,成长,G
 UnitDataLevel,STATS,Header for a chart that is the unit's base stats at level 1,初始等级,1st Level
 UnitDataStat,STATS,Header for a chart that is the unit's base stats,属性,Stat
 ActiveItem,TOOLTIP,Label for an active item effect,使用效果,Use Effect
-AlchemistNode,TOOLTIP,Description for the alchemist/transmuter encounter. This allows the player to mulch items to convert them to other items.,炼金术士：转化物品,Alchemist: Transmute Items
+AlchemistNode,TOOLTIP,Description for the alchemist/transmuter encounter. This allows the player to mulch items to convert them to other items.,炼金术士:转化物品,Alchemist: Transmute Items
 AllFilter,TOOLTIP,Item filter that shows every item,所有物品,All Items
 AnyoneDamagedTrigger,TOOLTIP,If a skill is triggered after any unit is damaged,当任意单位受伤时触发,Triggered when any Unit is Damaged
 AnyoneMovementEndTrigger,TOOLTIP,If a skill is triggered at end of a unit's movement,当任意单位完成移动时触发,Triggered when any Unit finishes moving
@@ -2547,7 +2547,7 @@ AnyoneTurnEndTrigger,TOOLTIP,If a skill is triggered at end of a unit's turn,当
 AnyTileTargetType,TOOLTIP,When an effect targets any tile,任意格子,Any Tile
 AoELabel,TOOLTIP,Grammar structure for the description of an area of effect. e.g. Radius of Effect or Cone of Effect,<AoEType>作用范围,<AoEType> of Effect
 AppliedStacks,TOOLTIP,the number of stacks of a status effect is applied by a skill or item,施加层数,Applied Stacks
-ArenaNode,TOOLTIP,Description for the arena encounter,竞技场：进行小型对决以获取奖励,Arena: Fight a Small Duel for Rewards
+ArenaNode,TOOLTIP,Description for the arena encounter,竞技场:进行小型对决以获取奖励,Arena: Fight a Small Duel for Rewards
 AttackableTargetType,TOOLTIP,When an effect targets anything that could be attacked with a weapon,武器攻击,Weapon Attack
 AvailableSkillSet,TOOLTIP,Explaining to the player that the unit can learn these skills,<CharName>可以学习<SkillSet>技能。,<CharName> can learn <SkillSet> Skills.
 BlacklistedWeapon,TOOLTIP,Explaining to the player that this unit can't use a particular weapon type.,<CharName>无法学会持用此武器类型。,<CharName> cannot learn to wield this Weapon Style.
@@ -2557,7 +2557,7 @@ BookshelfBurnt,TOOLTIP,"Name of the ""bookshelf"" terrain type tile",书架,Book
 BookshelfBurntLabel,TOOLTIP,Label for burnt bookshelf,烧毁的书架,Burnt Bookshelf
 BookshelfLabel,TOOLTIP,Label for bookshelf,书架,Bookshelf
 BookshelfTargetType,TOOLTIP,When an effect targets any tile,书架,Bookshelf
-Boss,TOOLTIP,Label for highest level enemy on the map,队长：遭遇战中最强的敌人，有时也是目标对象。,"Leader: Strongest Enemy in the Encounter, sometimes an Objective Target."
+Boss,TOOLTIP,Label for highest level enemy on the map,队长:遭遇战中最强的敌人，有时也是目标对象。,"Leader: Strongest Enemy in the Encounter, sometimes an Objective Target."
 Bridge,TOOLTIP,"Name of the ""bridge"" terrain type tile",桥,Bridge
 Building,TOOLTIP,"Name of the ""building"" terrain type tile - as in, there is a house on that tile",建筑,Building
 Bush,TOOLTIP,"Name of the ""Bush"" terrain type tile",灌木,Bush
@@ -2585,14 +2585,14 @@ DoesNotStack,TOOLTIP,If a status effect can't stack,无法叠加。,Cannot stack
 DoubleEachRound,TOOLTIP,If a status effect doubles its stack count each round,每轮层数翻倍。,Stacks double each Round.
 EasyCombat,TOOLTIP,Name for the gameplay event that is an easy enemy encounter,小规模冲突,Skirmish
 Elite,TOOLTIP,Name for a particularly difficult gameplay event that is a difficult enemy encounter,战斗,Battle
-EliteNode,TOOLTIP,Description for the elite combat event,战斗：与强敌的遭遇战,Battle: Combat Encounter against a Strong Foe
+EliteNode,TOOLTIP,Description for the elite combat event,战斗:与强敌的遭遇战,Battle: Combat Encounter against a Strong Foe
 EmptyTileTargetType,TOOLTIP,When an effect targets an empty tile,空格,Empty Tile
 EnemyPhaseStartTrigger,TOOLTIP,If a skill is triggered at enemy phase start,在敌方阶段开始时触发,Triggered at the start of the Enemy's Phase
 Event,TOOLTIP,Name for the gameplay event that is a randomly occuring event that has rewards and negatives,新记忆,New Memory
 EventHealthChange,TOOLTIP,telling the player that choices in events can't kill units,受影响的单位生命不会降至 1 以下,Affected Units can't fall below 1 HP
 FailedRollsTrigger,TOOLTIP,If a skill is triggered after failing at rolls in a fight,此单位在战斗中每次判定失败时触发（攻击未命中、被攻击命中或受到暴击）,"Triggered each time this Unit fails a Roll during a Fight (misses an Attack, hit by an Attack, or gets CRIT)"
 Finale,TOOLTIP,Name for the gameplay event that is the final boss of an act,攻城战,Siege
-FinaleNode,TOOLTIP,Description for the act boss combat event,攻城战：一幕中的最终遭遇战,Siege: Final Combat Encounter in an Act
+FinaleNode,TOOLTIP,Description for the act boss combat event,攻城战:一幕中的最终遭遇战,Siege: Final Combat Encounter in an Act
 Floor,TOOLTIP,"Name of the ""floor"" terrain type tile",地面,Floor
 Forcefield,TOOLTIP,"Name of the ""Forcefield"" terrain type tile, which blocks units from moving through",力场,Forcefield
 ForcefieldSwitch,TOOLTIP,"Name of the ""ForcefieldSwitch"" terrain type tile, which allows units to turn off forcefields",力场发生器,Forefield Emanator
@@ -2620,11 +2620,11 @@ LockedDifficultyModifier,TOOLTIP,Description for the difficulty modifier of a lo
 LockedDoorLabel,TOOLTIP,Label for locked door,上锁的门\n（需要钥匙）,Locked Door\n(Requires Key)
 LockedTargetType,TOOLTIP,When an effect targets any locked objects like chests or doors,上锁物体,Locked Object
 Lv,TOOLTIP,Abbreviation for unit level in tooltips,等级,Lv
-MagicShopNode,TOOLTIP,Description for the magic shop encounter,工坊：购买魔法武器与飞行坐骑,Atelier: Buy Magic Weapons and Flying Mounts
+MagicShopNode,TOOLTIP,Description for the magic shop encounter,工坊:购买魔法武器与飞行坐骑,Atelier: Buy Magic Weapons and Flying Mounts
 MagicWeapon,TOOLTIP,If a weapon is based on magic,以单位魔力计算,Utilizes Unit's MAG
 MailingListButton,TOOLTIP,Button to join mailing list,加入邮件列表,Join Mailing List
 MainMenuTooltip,TOOLTIP,Prompting the player to select an option at the beginning of the game,你想做什么？,What would you like to do?
-MasteryRequirement,TOOLTIP,How much DEX is required to use the weapon skill,所需灵巧：,Required DEX:
+MasteryRequirement,TOOLTIP,How much DEX is required to use the weapon skill,所需灵巧:,Required DEX:
 MaxUnitLevel,TOOLTIP,Replaces the unit level number in tooltips once max unit level is reached,最高等级,Max Level
 MeDefeatedTrigger,TOOLTIP,If a skill is triggered when a unit is downed,当此单位被击败时触发,Triggered when this Unit is Defeated
 MeGainingXpTrigger,TOOLTIP,If a skill is triggered after gaining experience,当此单位获得经验时触发,Triggered when this Unit gains Experience
@@ -2639,7 +2639,7 @@ Mountain,TOOLTIP,"Name of the ""Mountain"" terrain type tile",山地,Mountain
 Mounted,TOOLTIP,Name for a unit who is riding a mount,骑乘,Mounted
 MountFilter,TOOLTIP,Item filter that shows only Mounts,坐骑,Mounts
 MoveCost,TOOLTIP,Explanation for movement cost,单位通过 1 个格子所需消耗的移动力。,The amount of Movement Speed a tile takes for a Unit to move through.
-MovementCost,TOOLTIP,Label for the amount of movement cost a tile has,移动消耗：,Move Cost:
+MovementCost,TOOLTIP,Label for the amount of movement cost a tile has,移动消耗:,Move Cost:
 MyCombatEndTrigger,TOOLTIP,If a skill is triggered at combat end,战斗结束时触发,Triggered at the end of a Fight
 MyCombatStartTrigger,TOOLTIP,If a skill is triggered at combat start,战斗开始时触发,Triggered at the start of a Fight
 MyPhaseEndTrigger,TOOLTIP,If a skill is triggered at phase end,在此单位的阶段结束时触发,Triggered at the end of this Unit's Phase
@@ -2648,17 +2648,17 @@ MyPreCombatTrigger,TOOLTIP,If a skill is triggered before combat start,战斗开
 MyTurnEndTrigger,TOOLTIP,If a skill is triggered at turn end,在此单位的回合结束时触发,Triggered at the end of this Unit's Turn
 NoModifiers,TOOLTIP,Explainer that something has no modifiers,无特殊效果,Nothing Special
 NormalCombat,TOOLTIP,"Name for the gameplay event that is a normal enemy encounter, this happens most often of all gameplay events",小规模冲突,Skirmish
-NormalCombatNode,TOOLTIP,Description for the normal combat event,小规模冲突：常规遭遇战,Skirmish: Regular Combat Encounter
+NormalCombatNode,TOOLTIP,Description for the normal combat event,小规模冲突:常规遭遇战,Skirmish: Regular Combat Encounter
 NormalDifficultyModifier,TOOLTIP,Description for the difficulty modifier of normal difficulty,无难度修正,No Difficulty Modifiers
-NoSlots,TOOLTIP,Warning to let the player know they can't learn a skill since the unit has no skill slots,此技能占用 1 个技能栏：此单位没有空闲技能栏！,This Skill takes up a Skill Slot: This Unit doesn't have any Skill Slots!
+NoSlots,TOOLTIP,Warning to let the player know they can't learn a skill since the unit has no skill slots,此技能占用 1 个技能栏:此单位没有空闲技能栏！,This Skill takes up a Skill Slot: This Unit doesn't have any Skill Slots!
 NothingHappens,TOOLTIP,Label for a button that will proceed without getting anything,什么也不会发生。,Nothing happens.
 NothingTerrain,TOOLTIP,Terrain with no effects or modifiers,无特殊效果,Nothing Special
 NoWeaponAbility,TOOLTIP,Letting the player know the current weapon has no skill assigned to it,无武器技能,No Weapon Skill
-ObjectiveTerrain,TOOLTIP,The location of an encounter objective,目标地点：此处有 1 个目标,Objective Location: An Objective is located here
+ObjectiveTerrain,TOOLTIP,The location of an encounter objective,目标地点:此处有 1 个目标,Objective Location: An Objective is located here
 OnAcquiredTrigger,TOOLTIP,If a relic is triggered when acquired,获得此记忆时触发,Triggered when this Memory is acquired
 OnActivateTrigger,TOOLTIP,If a relic is triggered manually from the action menu,使用此记忆的行动时触发,Triggered when this Memory's Action is used
 OnApplicationTrigger,TOOLTIP,If a skill is triggered right after it is applied,施加此状态时触发,Triggered when this Status is applied
-OnceRule,TOOLTIP,Description for Once skills,临时：此技能每场遭遇战只能使用 1 次。,Ephemeral: This Skill can only be used once per Encounter.
+OnceRule,TOOLTIP,Description for Once skills,临时:此技能每场遭遇战只能使用 1 次。,Ephemeral: This Skill can only be used once per Encounter.
 OnConsumableUsedTrigger,TOOLTIP,If a relic is triggered when any unit uses a consumable items,使用消耗品时触发,Triggered when a Consumable is used
 OnDamageTakenTrigger,TOOLTIP,If a relic is triggered when a unit takes damage,单位受伤时触发,Triggered when a Unit is Damaged
 OnEndOfFightTrigger,TOOLTIP,If a relic is triggered at the end of combat,战斗结束时触发,Triggered at the end of a Fight
@@ -2679,24 +2679,24 @@ OnUnitDefeatedTrigger,TOOLTIP,If a relic is triggered when a unit takes damage,�
 OnUnitDiedTrigger,TOOLTIP,If a relic is triggered when any unit dies,单位倒下时触发,Triggered when a Unit is Downed
 OpenableTargetType,TOOLTIP,When an effect targets any openable objects like chests or doors,物体,Object
 OtherTrigger,TOOLTIP,If a skill is triggered manually,手动施放,Cast manually
-PhysicalShopNode,TOOLTIP,Description for the blacksmith encounter,铁匠铺：购买物理武器与陆地坐骑,Blacksmith: Buy Physical Weapons and Land Mounts
+PhysicalShopNode,TOOLTIP,Description for the blacksmith encounter,铁匠铺:购买物理武器与陆地坐骑,Blacksmith: Buy Physical Weapons and Land Mounts
 PhysicalWeapon,TOOLTIP,If a weapon is based on strength,以单位力量计算,Utilizes Unit's STR
 Plains,TOOLTIP,"Name of the ""plains"" terrain type tile",平原,Plains
 PoisonBush,TOOLTIP,Name of the terrain type tile that poisons units,毒灌木,Poison Bush
-ProfoundRule,TOOLTIP,Description for Profound skills,淬炼：单位可多次学习此技能。,Honed: A Unit can learn this Skill more than once.
+ProfoundRule,TOOLTIP,Description for Profound skills,淬炼:单位可多次学习此技能。,Honed: A Unit can learn this Skill more than once.
 ProgressionFilter,TOOLTIP,Item filter that shows only progression items,成长物品,Progression Items
-QuickRule,TOOLTIP,Description for quick skills,快捷：施放此技能不会结束该单位的回合。,Quick: Casting this Skill does not end the Unit's Turn.
+QuickRule,TOOLTIP,Description for quick skills,快捷:施放此技能不会结束该单位的回合。,Quick: Casting this Skill does not end the Unit's Turn.
 Radius,TOOLTIP,Label for AoE that is a radius,区域,Area
 RandomNode,TOOLTIP,Description for a random event,？？？,???
 Range,TOOLTIP,Description that explains that a weapon's range is how many tiles away it can reach,射程,Range
 Rare,TOOLTIP,Rarity label for least common,珍稀,Rare
-Recruitable,TOOLTIP,Label for a recruitable unit,可招募：此单位可加入你的队伍。,Recruitable: This Unit can join your Team.
+Recruitable,TOOLTIP,Label for a recruitable unit,可招募:此单位可加入你的队伍。,Recruitable: This Unit can join your Team.
 Recruited,TOOLTIP,Pop-up text when a unit is recruited ,已招募！,Recruited!
 RedditButton,TOOLTIP,Button to subreddit,加入 Subreddit,Join the Subreddit
 ReinforcementWarning,TOOLTIP,Label for grid tile where an enemy reinforcement will be arriving,增援\n途中,Reinforcement\nEnroute
 Relic,TOOLTIP,Label for relic effects,记忆效果,Memory Effect
 Rest,TOOLTIP,Name for the gameplay event where the player party rests and heals,篝火,Campfire
-RestNode,TOOLTIP,Description for the rest event,篝火：恢复生命并制作食物,Campfire: Regain Health and Make Food
+RestNode,TOOLTIP,Description for the rest event,篝火:恢复生命并制作食物,Campfire: Regain Health and Make Food
 Road,TOOLTIP,"Name of the ""road"" terrain type tile",道路,Road
 Rock,TOOLTIP,"Name of the ""rock"" terrain type tile",岩石,Rock
 Row,TOOLTIP,Label for AoE that is a horizontal line,直线,Line
@@ -2710,10 +2710,10 @@ Shop,TOOLTIP,Name for the gameplay event where the player can purchase items at 
 SkillLabelGrammar,TOOLTIP,"Order of adjectives to describe a skill e.g. ""Common Warrior Skill"" or ""Battlemage Skill"". Change the order to suit grammatical rules of the language.",<Rarity><SkillSet><Skill>,<Rarity> <SkillSet> <Skill>
 SkipVignette,TOOLTIP,Button that skips the current scene,跳过场景,Skip Scene
 Sky,TOOLTIP,"Name of the ""sky"" terrain type tile",裂隙,Fissure
-SlotlessRule,TOOLTIP,Description for Slotless skills,简易：此技能不占用技能栏。,Simple: This Skill does not take up a Skill slot.
-SlotsFull,TOOLTIP,Warning to let the player know a skill will need to be deleted since their slots are full,此技能占用 1 个技能栏：学习它需要遗忘 1 个已装配的技能！,This Skill takes up a Skill Slot: Learning this will require you to Forget a currently Slotted Skill!
+SlotlessRule,TOOLTIP,Description for Slotless skills,简易:此技能不占用技能栏。,Simple: This Skill does not take up a Skill slot.
+SlotsFull,TOOLTIP,Warning to let the player know a skill will need to be deleted since their slots are full,此技能占用 1 个技能栏:学习它需要遗忘 1 个已装配的技能！,This Skill takes up a Skill Slot: Learning this will require you to Forget a currently Slotted Skill!
 SlottedRule,TOOLTIP,Description for non-slotless skills,此技能占用 1 个技能栏。,This Skill takes up a Skill slot.
-SlowRule,TOOLTIP,Description for Slow skills,迟缓：此技能一经学会便进入冷却。,Slow: This Skill starts on cooldown as soon as it's learned.
+SlowRule,TOOLTIP,Description for Slow skills,迟缓:此技能一经学会便进入冷却。,Slow: This Skill starts on cooldown as soon as it's learned.
 Spar,TOOLTIP,The type of arena match where your units don't die,非致命切磋，可获得一些战利品,Non-lethal sparring match for some loot
 Special,TOOLTIP,Rarity label for special things,特殊,Special
 StackGrammarPlural,TOOLTIP,"Used to describe multiple stacks of an effect being applied e.g. The <Status> in ""Apply <Status> to a unit."" gets replaced by ""3 stacks of Accurate"" to result in ""Apply 3 stacks of Accurate to a unit"".",<Amount> 层<Effect>,<Amount> stacks of <Effect>
@@ -2730,9 +2730,9 @@ TeleporterB,TOOLTIP,Name of the blue teleporter,蓝色传送点,Blue Teleporter
 TeleporterG,TOOLTIP,Name of the green teleporter,绿色传送点,Green Teleporter
 TeleporterR,TOOLTIP,Name of the red teleporter,红色传送点,Red Teleporter
 TimeExplainer,TOOLTIP,Explaining that time is measured in rounds,冷却时间以轮为单位计算。,Cooldown times are measured in Rounds.
-TrainerNode,TOOLTIP,Description for the trainer encounter,训练师：购买副职业与属性变更物品,Trainer: Buy Subclasses and Stat-Changing Items
+TrainerNode,TOOLTIP,Description for the trainer encounter,训练师:购买副职业与属性变更物品,Trainer: Buy Subclasses and Stat-Changing Items
 Treasure,TOOLTIP,Name for the gameplay event where the player finds loot,宝藏,Treasure
-TreasureNode,TOOLTIP,Description for the treasure encounter,宝藏：从宝箱中掠夺战利品,Treasure: Plunder Loot from a Chest
+TreasureNode,TOOLTIP,Description for the treasure encounter,宝藏:从宝箱中掠夺战利品,Treasure: Plunder Loot from a Chest
 TwitterButton,TOOLTIP,Button to twitter account,关注 Twitter,Follow the Twitter
 Uncommon,TOOLTIP,Rarity label for middle rarity,稀有,Uncommon
 Unequipped,TOOLTIP,Label that shows that the unit has 1 more item in their inventory,其他,Other
@@ -2741,7 +2741,7 @@ UnitDamagedByMeTrigger,TOOLTIP,If a skill is triggered when a combatant is damag
 UnitDamagedMeTrigger,TOOLTIP,If a skill is triggered when a combatant is damaged,当攻击对此单位造成伤害时触发,Triggered when an Attack damages this Unit
 UnitDefeatedByMeTrigger,TOOLTIP,If a skill is triggered when a combatant is defeated,在战斗中击败单位时触发,Triggered upon Defeating a Unit in a Fight
 UnitExceptSelfTargetType,TOOLTIP,When an effect targets a unit,单位,Unit
-UnitLoot,TOOLTIP,Label for the loot a unit collected from battle,战利品：,Loot:
+UnitLoot,TOOLTIP,Label for the loot a unit collected from battle,战利品:,Loot:
 UnitMissedMeTrigger,TOOLTIP,If a skill is triggered when an attack misses a combatant,当攻击未命中此单位时触发,Triggered when an Attack misses this Unit
 UnitRestriction,TOOLTIP,"If a weapon is exclusive to a unit e.g. ""Vega Only""",仅<UnitName>,<UnitName> Only
 UnitTargetType,TOOLTIP,When an effect targets a unit,单位,Unit
@@ -2750,7 +2750,7 @@ UnlockedDoorLabel,TOOLTIP,Label for unlocked door,门,Door
 Unsuccessful,TOOLTIP,If something did not work,不行！,Nope!
 UnusableWeapon,TOOLTIP,"Explaining to the player that this unit can't use a particular weapon type, but might be able to in the future if unlocked",<CharName>可以学会持用此武器类型。,<CharName> can learn to wield this Weapon Style.
 UsableWeapon,TOOLTIP,Explaining to the player that this unit can use a weapon type.,<CharName>可以持用此武器类型。,<CharName> can wield this Weapon Style.
-VIP,TOOLTIP,Description for important non-enemy NPCs,受保护者：极为重要的中立单位，若在遭遇战结束时存活，通常会给出一份不错的报酬。,Protectee: Very important Unaligned Unit who will most likely offer a nice reward if alive at the end of an Encounter.
+VIP,TOOLTIP,Description for important non-enemy NPCs,受保护者:极为重要的中立单位，若在遭遇战结束时存活，通常会给出一份不错的报酬。,Protectee: Very important Unaligned Unit who will most likely offer a nice reward if alive at the end of an Encounter.
 Void,TOOLTIP,"Name of the ""void"" terrain type tile",无法进入,Inaccessible
 Wall,TOOLTIP,"Name of the ""wall"" terrain type tile",墙,Wall
 Water,TOOLTIP,"Name of the ""water"" terrain type tile",水域,Water
